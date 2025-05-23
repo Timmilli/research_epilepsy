@@ -6,14 +6,16 @@
 
 Mostly about the study of EEG with DL, it tackles a lit bit the study of MRI with DL by providing 8 linked researches.
 
-\subsection{\href{https://www.nature.com/articles/s41582-024-00965-9}{Artificial intelligence in epilepsy - applications and pathways to the clinic (2024)}}
+\subsection{\href{https://www.nature.com/articles/s41582-024-00965-9}{Artificial intelligence in epilepsy - applications and pathways to the clinic (May 2024)}}
 
 It tackles a lot of subjects, not only IA for epilepsy.
 
-\subsection{\href{https://www.sciencedirect.com/science/article/pii/S0035378725004874}{Artificial intelligence applied to epilepsy imaging: current status and future perspectives (2025)}}
+\subsection{\href{https://www.sciencedirect.com/science/article/pii/S0035378725004874}{Artificial intelligence applied to epilepsy imaging: current status and future perspectives (May 2025)}}
 
 This reviews a lot of article on this subject.
 It also explains what is the procedure
+
+It has an interesting fact about epilepsy in France that could be reused in the report or the presentation.
 
 \section{Articles}
 
@@ -84,6 +86,11 @@ Code via GitHub here: \citeref{sub:sec:meld_github}
 
 Explanation here: \citeref{fig:meld_explanation}
 
+Cohort splitting: 50-50 and 10-fold cross-validation
+
+From MRI images, brain is reconstructed via \emph{FreeSurfer} library. It then consists in a lot of vertices and edges.
+These are analysed by the model to declare lesioned vertices.
+
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=\textwidth]{"meld_method.pdf"}
@@ -116,8 +123,14 @@ Explanation here: \citeref{fig:meld_explanation}
 \end{table}
 
 \subsection{\href{https://www.sciencedirect.com/science/article/pii/S1525505015002322}{Cortical feature analysis and machine learning improves detection of “MRI-negative” focal cortical dysplasia (2015)}}
+\label{sub:sec:res3}
+
+From MRI images, brain is reconstructed via \emph{FreeSurfer} library. It then consists in a lot of vertices and edges.
+These are analysed by the model to declare lesioned vertices.
 
 \subsubsection{Results}
+
+Here: \citeref{tab:res3}
 
 \begin{table}[htbp]
 	\centering
@@ -139,16 +152,63 @@ Explanation here: \citeref{fig:meld_explanation}
 		Specificity & 58\% \\
 	\end{tabular}
 }
-	\caption{Results}
+	\caption{Results from \citeref{sub:sec:res3}}%
+	\label{tab:res3}
 \end{table}
 
-\subsection{\href{https://www.nature.com/articles/s41582-024-00965-9\#Sec21}{Artificial intelligence in epilepsy — applications and pathways to the clinic}}
-
 \subsection{\href{https://www.sciencedirect.com/science/article/pii/S1746809419301211\#sec0010}{Automatic detection and localization of Focal Cortical Dysplasia lesions in MRI using fully convolutional neural network (2019)}}
+\label{sub:sec:res4}
 
-Some maths for the loss function, clear explanation on how it works
+Some maths for the loss function, clear explanation on how it works.
+Lots of information about the whole setup, procedure, method, neural network\dots
+
+MRI images are taken in the sagittal plane
+
+\subsubsection{Preprocessing}
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{"MRI_example.jpg"}
+	\caption{From research: \citeref{sub:sec:res4}}
+	\label{fig:res4:1}
+\end{figure}
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{"MRI_example_2.jpg"}
+	\caption{From research: \citeref{sub:sec:res4}}
+	\label{fig:res4:2}
+\end{figure}
+
+\subsubsection{Method}
+
+Fully connected convolutional network is used in order to keep the size of the image and to result into an image where each pixel corresponds to a probability of being lesioned.
+
+Loss function: loss = Binary Cross-Entropy + Dice Loss
+
+5-fold cross-validation where one patient frames would stay in the same fold to avoid biases
+
+\begin{table}
+	\centering
+	\fbox{
+	\begin{tabular}{l c}
+		epochs & 100 \\
+		learning rate & 0.4 \\
+	\end{tabular}
+}
+	\caption{Interesting values of \citeref{sub:sec:res4}}
+\end{table}
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{"CNN_explanation_2.jpg"}
+	\caption{From research: \citeref{sub:sec:res4}}
+	\label{fig:res4:3}
+\end{figure}
 
 \subsubsection{Results}
+
+Here: \citeref{tab:res4}
 
 \begin{table}[htbp]
 	\centering
@@ -172,34 +232,39 @@ Some maths for the loss function, clear explanation on how it works
 		Dice-coefficient & 52.47 \\
 	\end{tabular}
 }
-	\caption{Results}
+	\caption{Results from: \citeref{sub:sec:res4}}
+	\label{tab:res4}
 \end{table}
 
-\begin{figure}[htbp]
-	\centering
-	\includegraphics[width=\textwidth]{"CNN_explanation_2.jpg"}
-\end{figure}
-\newpage
-
 \subsection{\href{https://link.springer.com/chapter/10.1007/978-3-030-00931-1_56}{Deep Convolutional Networks for Automated Detection of Epileptogenic Brain Malformations (2018)}}
+\label{sub:sec:res5}
 
 This one uses "two identical CNN which weights are optimized independently".
+
+MRI images used are taken in the transverse plane
+
+\subsubsection{Method}
+
+5-fold corss-validation
 
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=\textwidth]{"two_CNN_explanation.png"}
+	\caption{Top panel: Convolutional network architecture (CNNx) for two-label (lesional vs. non-lesional) classification. Bottom panel: Training and testing schema using two-stage CNNx cascade (CNN1/CNN2). From research in \citeref{sub:sec:res5}}
 \end{figure}
 
 \subsubsection{Results}
+
+Here: \citeref{tab:res5}
 
 \begin{table}[htbp]
 	\centering
 	\fbox{
 		\begin{tabular}{l c}
 			not clear & \\
-			n & 107 \\
-			patients & \\
-			controls &  \\
+			n &  \\
+			patients & 107 \\
+			controls & 101 \\
 			train ratio & 0.75 \\
 			test ratio & 0.25 \\
 		\end{tabular}
@@ -212,25 +277,37 @@ This one uses "two identical CNN which weights are optimized independently".
 			Specificity & 95\% \\
 		\end{tabular}
 	}
-	\caption{Results}
+	\caption{Results from \citeref{sub:sec:res5}}
+	\label{tab:res5}
 \end{table}
 
 \subsection{\href{https://www.sciencedirect.com/science/article/pii/S0920121121002709\#sec0010}{Deep learning-based diagnosis of temporal lobe epilepsy associated with hippocampal sclerosis: An MRI study (2021)}}
+\label{sub:sec:res6}
+
+Not to actually detect FCD but works same.
+
+Lots of details on patient and control image acquisitions.
+Also on the detail of MRIs
+
+MRI images are taken in the transverse plane
 
 \subsubsection{Method}
 
 5-fold cross-validation, 
-use of mCNN, 
+use of CNN, 
 data augmentation (shifting height and width, zooming, shearing, flipping),
-loss function: RMSProp (from \href{https://www.sciencedirect.com/science/article/pii/S0920121121002709\#bib21}{here})
+loss function: RMSProp (from \href{https://www.sciencedirect.com/science/article/pii/S0920121121002709\#bib21}{here}),
 code nor benchmark given,
 
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=\textwidth]{"CNN_explanation_3.jpg"}
+	\caption{MTLE-HS means patient, Normal means control. From \citeref{sub:sec:res6}}
 \end{figure}
 
 \subsubsection{Results}
+
+Here: \citeref{tab:res6}
 
 \begin{table}[htbp]
 	\centering
@@ -252,10 +329,11 @@ code nor benchmark given,
 		Specificity & 83.5\% \\
 	\end{tabular}
 	}
-	\caption{Results}
+	\caption{Results from \citeref{sub:sec:res6}}
+	\label{tab:res6}
 \end{table}
 
-\subsection{\href{https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf020/7972755\#510821169}{Artificial intelligence applied to epilepsy imaging: Current status and future perspectives (May 2025)}}
+\subsection{\href{https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf020/7972755\#510821169}{Redefining diagnostic lesional status in temporal lobe epilepsy with artificial intelligence (May 2025)}}
 \label{sub:sec:3dcnn_article}
 
 \subsubsection{Model \& Method}
