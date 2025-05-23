@@ -1,0 +1,291 @@
+\chapter{Researches}
+
+\section{Reviews}
+
+\subsection{\href{https://www.mdpi.com/1660-4601/18/11/5780\#B141-ijerph-18-05780}{Epileptic Seizures Detection Using Deep Learning Techniques A Review (2021)}}
+
+Mostly about the study of EEG with DL, it tackles a lit bit the study of MRI with DL by providing 8 linked researches.
+
+\subsection{\href{https://www.nature.com/articles/s41582-024-00965-9}{Artificial intelligence in epilepsy - applications and pathways to the clinic (2024)}}
+
+It tackles a lot of subjects, not only IA for epilepsy.
+
+\subsection{\href{https://www.sciencedirect.com/science/article/pii/S0035378725004874}{Artificial intelligence applied to epilepsy imaging: current status and future perspectives (2025)}}
+
+This reviews a lot of article on this subject.
+It also explains what is the procedure
+
+\section{Articles}
+
+\subsection{\href{https://www.sciencedirect.com/science/article/pii/S187887502032698X\#abssec0015}{Convolutional Neural Networks for Pediatric Refractory Epilepsy Classification Using Resting-State Functional Magnetic Resonance Imaging (May 2021)}}
+\label{sub:sec:cnn}
+
+Study made to evaluate the performance of CNN in "the classification of patients with paediatric epilepsy from healthy control"
+
+To modify CNNs, some parameters were manually changed, such as: 3 hyperparameters, learning rate, dropout rate and regularization, and number of epoch.
+
+To evaluate them ($\sim$4000 models), the model with the highest sensitivity was kept.
+
+\subsubsection{Methods}
+
+Full explanations of each step in the paper, figure summing up here: \citeref{fig:cnn}
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{"CNN_explanation.jpg"}
+	\caption{Linked to this research: \citeref{sub:sec:cnn}}%
+	\label{fig:cnn}
+\end{figure}
+
+\subsubsection{Results}
+
+Results here: \citeref{tab:cnn}
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l c}
+		n & 322 \\
+		patients & 63 \\
+		controls & 259 \\
+		train ratio & 0.6 \\
+		validate ratio & 0.2 \\
+		test ratio & 0.2 \\
+	\end{tabular}
+}
+	\caption{Benchmark}
+
+	\fbox{
+	\begin{tabular}{l c}
+		Sensitivity & 85\% \\
+		Specificity & 71\% \\
+		F1 score & 0.56 \\
+	\end{tabular}
+}
+	\caption{Results of \citeref{sub:sec:cnn}}%
+
+	\fbox{
+		\begin{tabular}{l c}
+			Dropout rate & 50\% \\
+			Learning rate & $1e-4$ \\
+			Epoch & 181 \\
+		\end{tabular}
+	}
+	\caption{Best model parameter values}
+	\label{tab:cnn}
+\end{table}
+
+\subsection{\href{https://academic.oup.com/brain/article/145/11/3859/6659752?login=true}{Interpretable surface-based detection of focal cortical dysplasias: a Multi-centre Epilepsy Lesion Detection study (August 2022)}}
+\label{sub:sec:meld_research}
+
+Code via GitHub here: \citeref{sub:sec:meld_github}
+
+\subsubsection{Methods}
+
+Explanation here: \citeref{fig:meld_explanation}
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{"meld_method.pdf"}
+	\caption{Linked to this research: \citeref{sub:sec:meld_research}}%
+	\label{fig:meld_explanation}
+\end{figure}
+
+\subsubsection{Results}
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l c}
+		n & 1015 \\
+		patients & 618 \\
+		controls & 397 \\
+		train ratio & 0.5 \\
+		test ratio & 0.5 \\
+	\end{tabular}
+}
+	\caption{Benchmark}
+
+	\fbox{
+	\begin{tabular}{l c}
+		Sensitivity & 59\% \\
+		Specificity & 54\% \\
+	\end{tabular}
+}
+	\caption{Results}
+\end{table}
+
+\subsection{\href{https://www.sciencedirect.com/science/article/pii/S1525505015002322}{Cortical feature analysis and machine learning improves detection of “MRI-negative” focal cortical dysplasia (2015)}}
+
+\subsubsection{Results}
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l c}
+		n & 93 \\
+		patients & 31 \\
+		controls & 62 \\
+		train ratio & 0.5 \\
+		test ratio & 0.5 \\
+	\end{tabular}
+}
+	\caption{Benchmark}
+
+	\fbox{
+	\begin{tabular}{l c}
+		not clear but & \\
+		Sensitivity & 86\% \\
+		Specificity & 58\% \\
+	\end{tabular}
+}
+	\caption{Results}
+\end{table}
+
+\subsection{\href{https://www.nature.com/articles/s41582-024-00965-9\#Sec21}{Artificial intelligence in epilepsy — applications and pathways to the clinic}}
+
+\subsection{\href{https://www.sciencedirect.com/science/article/pii/S1746809419301211\#sec0010}{Automatic detection and localization of Focal Cortical Dysplasia lesions in MRI using fully convolutional neural network (2019)}}
+
+Some maths for the loss function, clear explanation on how it works
+
+\subsubsection{Results}
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l c}
+		subjects & 43 \\
+		n (MRI frames) & 8849 \\
+		patients & 1431 \\
+		controls & 7418 \\
+		train ratio & 0.65 \\
+		test ratio & 0.18 \\
+		validation ratio & 0.17 \\
+	\end{tabular}
+}
+	\caption{Benchmark}
+
+	\fbox{
+	\begin{tabular}{l c}
+		Recall & 40.10 \% \\
+		Precision & 80.69 \% \\
+		Dice-coefficient & 52.47 \\
+	\end{tabular}
+}
+	\caption{Results}
+\end{table}
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{"CNN_explanation_2.jpg"}
+\end{figure}
+\newpage
+
+\subsection{\href{https://link.springer.com/chapter/10.1007/978-3-030-00931-1_56}{Deep Convolutional Networks for Automated Detection of Epileptogenic Brain Malformations (2018)}}
+
+This one uses "two identical CNN which weights are optimized independently".
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{"two_CNN_explanation.png"}
+\end{figure}
+
+\subsubsection{Results}
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+		\begin{tabular}{l c}
+			not clear & \\
+			n & 107 \\
+			patients & \\
+			controls &  \\
+			train ratio & 0.75 \\
+			test ratio & 0.25 \\
+		\end{tabular}
+	}
+	\caption{Benchmark}
+
+	\fbox{
+		\begin{tabular}{l c}
+			Sensitivity & 87\% \\
+			Specificity & 95\% \\
+		\end{tabular}
+	}
+	\caption{Results}
+\end{table}
+
+\subsection{\href{https://www.sciencedirect.com/science/article/pii/S0920121121002709\#sec0010}{Deep learning-based diagnosis of temporal lobe epilepsy associated with hippocampal sclerosis: An MRI study (2021)}}
+
+\subsubsection{Method}
+
+5-fold cross-validation, 
+use of mCNN, 
+data augmentation (shifting height and width, zooming, shearing, flipping),
+loss function: RMSProp (from \href{https://www.sciencedirect.com/science/article/pii/S0920121121002709\#bib21}{here})
+code nor benchmark given,
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{"CNN_explanation_3.jpg"}
+\end{figure}
+
+\subsubsection{Results}
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l c}
+		n & 141 \\
+		patients & 85 \\
+		controls & 56 \\
+		train ratio & 0.8 \\
+		test ratio & 0.2 \\
+	\end{tabular}
+	}
+	\caption{Benchmark}
+
+	\fbox{
+	\begin{tabular}{l c}
+		Accuracy & 87.8\% \\
+		Sensitivity & 91.1\% \\
+		Specificity & 83.5\% \\
+	\end{tabular}
+	}
+	\caption{Results}
+\end{table}
+
+\subsection{\href{https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf020/7972755\#510821169}{Artificial intelligence applied to epilepsy imaging: Current status and future perspectives (May 2025)}}
+\label{sub:sec:3dcnn_article}
+
+\subsubsection{Model \& Method}
+
+3D CNN,
+10 runs of 5-fold cross-validation,
+no biases cuz of group imbalance,
+training:test → 80:20
+training:validation → 80:20
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l c}
+		participants & 1178 \\
+		n & 1178 \\
+		patients & 589 \\
+		controls & 589 \\
+		train ratio & 0.8 \\
+		test ratio & 0.2 \\
+	\end{tabular}
+	}
+	\caption{Benchmark}
+
+	\fbox{
+	\begin{tabular}{l c}
+		Accuracy & 85.2\% \\
+		Sensitivity & 80.5\% \\
+		Specificity & 89.8\% \\
+	\end{tabular}
+	}
+	\caption{Results}
+\end{table}

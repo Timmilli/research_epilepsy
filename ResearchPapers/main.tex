@@ -1,0 +1,82 @@
+\documentclass[a4paper,french,english]{report}
+
+% This template is by default in draft mode. Erase the parameter in the document class to have images.
+% It uses the report mode by default with custom chapters.
+% It uses \citeref{[ref]} instead of \cref{[ref]} to correct a bug with babel and cleveref.
+
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel} 
+\usepackage[T1]{fontenc}
+\usepackage{titlesec}
+
+% Figures
+\usepackage{graphicx}
+\graphicspath{{./img/}}
+
+% Refs
+\usepackage{hyperref}
+\usepackage[french,nameinlink]{cleveref}
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=[rgb]{0 0.05 0.70},
+    urlcolor=blue} 
+
+% Extra
+\usepackage[left=3cm,right=3cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{url}
+\usepackage{appendix}
+
+% regular chapters
+\titleformat{\chapter}[hang]
+  {\Huge\bfseries\scshape} % text format
+  {} % no label
+  {0pt} % space between number and title
+  {} % title only
+\titlespacing*{\chapter}{0pt}{-20pt}{40pt} % left, above, beneath spaces
+
+% to be used only in annexes
+\newcommand{\anxchapter}[1]{%
+    \titleformat{\chapter}[hang]%
+    {\normalfont\Huge\bfseries}%
+    {Annexe \Alph{chapter} : }%
+    {0pt}%
+    {}%
+    \titlespacing*{\chapter}{0pt}{-20pt}{20pt} % left, above, beneath spaces
+    \chapter{#1}%
+}
+
+% \citeref to be used instead of \cref
+% corrects a bug that happens when using babel french language and cleveref british language
+\newcommand{\citeref}[1]{%
+    \begin{otherlanguage}{british}%
+    \cref{#1}%
+    \end{otherlanguage}
+}
+
+\begin{document}
+
+\tableofcontents
+
+\newpage
+
+\chapter{Words}
+
+\begin{itemize}
+	\item Patients: MRI-positive
+	\item Controls: MRI-negative
+	\item Sensitivity: percentage of patients detected
+	\item Specificity: percentage of controls with zero clusters
+	\item Precision: the ratio of the TP to the sum of TP and FP
+	\item Recall: the ratio of TP to the sum of TP and FN
+\end{itemize}
+
+\include{culture.tex}
+
+\include{research.tex}
+
+\include{benchmark.tex}
+
+\include{codes.tex}
+
+\end{document}
