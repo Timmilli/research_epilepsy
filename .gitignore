@@ -1,6 +1,7 @@
 ## Own ignores
 
 Convention/
+Benchmarks/
 main.pdf
 
 ## Core latex/pdflatex auxiliary files:

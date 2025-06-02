@@ -1,18 +1,43 @@
 \chapter{Benchmark}
 
-\section{ADHD200-Sample}
+\section{Available MRI benchmarks}
+
+\subsection{OpenNeuro: FCDTypeII}
+
+Here: \href{https://openneuro.org/datasets/ds004199/versions/1.0.6}{An open presurgery MRI dataset of people with epilepsy and focal cortical dysplasia type II}
+
+85 controls and 85 patients composed of FLAIR and T1w images, with full details about the MRI and the patient (anonymous but sex, age at scan)
+
+\subsection{EPISURG}
+
+Benchmark available here: \href{https://torchio.readthedocs.io/_modules/torchio/datasets/episurg.html#EPISURG}{torchio.readthedocs.io/EPISURG}
+
+Real link is here: \href{https://rdr.ucl.ac.uk/articles/dataset/EPISURG_a_dataset_of_postoperative_magnetic_resonance_images_MRI_for_quantitative_analysis_of_resection_neurosurgery_for_refractory_epilepsy/9996158/1?file=26153588}{EPISURG article link}
+However, it doesn't work on Firefox for now.
+
+This is composed of 430 postoperative MRI. The corresponding preoperative MRI is present for 268 subjects.
+
+The dataset is 5.4 GB.
+
+Have to cite the paper if used.
+
+\section{On-demand MRI Benchmarks}
+
+\subsection{ADHD200-Sample}
 
 \href{https://fcon_1000.projects.nitrc.org/indi/adhd200/}{benchmark link}
 
-Used in article in \ref{sub:sec:cnn}
+Used in article in \ref{sub:sec:res1}
 
-\section{MELD Project}
+\subsection{MELD Project}
 
 The database is accessible on demand here: \href{https://meldproject.github.io//}{website}
 
-The GitHub is here in section \ref{sub:sec:meld_github}
+The GitHub is here in \citeref{sub:sec:meld_github}
 
-\section{PLoSONE\_MRI\_CAD\_paper}
+The research is here in \citeref{sub:sec:res2}
+
+\subsection{PLoSONE\_MRI\_CAD\_paper}
 
 Even though there are two links, they refer to the same thing. Just in case, they are both here anyway.
 
@@ -20,16 +45,121 @@ Even though there are two links, they refer to the same thing. Just in case, the
 
 \href{https://figshare.com/s/70178bc154bd83258322?file=5653479}{private benchmark link}
 
-\section{3D CNN data}
+\subsection{3D CNN data}
 
-Article here: \citeref{sub:sec:3dcnn_article}
+Article here: \citeref{sub:sec:res7}
 
 Data available on demand to the author.
 
-\section{Human connectome}
+\subsection{Human connectome}
 
 Benchmark available here: \href{https://www.humanconnectome.org/study/hcp-young-adult}{benchmark link}
 
-\section{Sree Chitra Tirunal Institute for Medical Sciences and Technology}
+\subsection{Sree Chitra Tirunal Institute for Medical Sciences and Technology}
 
 Benchmark surely available on demand
+
+
+\subsection{FastMRI}
+\label{sub:sec:FastMRI}
+
+Here: \href{https://fastmri.med.nyu.edu/}{direct link}
+
+PapersWithCode here: \href{https://paperswithcode.com/dataset/fastmri}{paperswithcode link}
+
+To access to the data, need to ask the owner.
+
+Contains MRI of knees, brains, breasts and prostates. Repartition here: \citeref{tab:FastMRI}
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l l l l}
+		\textbf{Field Strength} & \textbf{1.5T} & \textbf{3T} & \\
+		T1 & 382 & 409 & \\
+		T1 post contrast & 849 & 646 & \\
+		T2 & 1655 & 2524 & \\
+		FLAIR & 126 & 411 & \\
+		Total & 3012 & 3990 & 7002 \\
+	\end{tabular}
+	}
+	\caption{Repartition in the benchmark of FastMRI (\citeref{sub:sec:FastMRI})}
+	\label{tab:FastMRI}
+\end{table}
+
+\subsection{Brain Tumor MRI Dataset}
+
+PapersWithCode here: \href{https://paperswithcode.com/dataset/brain-tumor-mri-dataset}{paperswithcode link}
+
+This contains nothing for epilepsy, but contains "regular" brains MRI
+
+\subsection{Br35H::Brain Tumor Detection 2020}
+\label{sub:sec:br35h}
+
+PapersWithCode here: \href{https://paperswithcode.com/dataset/br35h-brain-tumor-detection-2020}{paperswithcode link}
+
+Kaggle here: \href{https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection}{kaggle link}
+
+Contains 3000 MRI images of brains, both tumorous or not. Can be used for control images.
+
+Condition of gathering not given.
+
+Repartition here: \citeref{tab:br35h}
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l l l}
+		\textbf{Folder name} & \textbf{Amount} & \textbf{Description} \\
+		Yes & 1500 & Brain is tumorous \\
+		No & 1500 & Brain isn't tumorous \\
+		Pred & 3060 & No idea \\
+		Total & 3000 & \\
+	\end{tabular}
+	}
+	\caption{Repartition in the benchmark of Br35H (\citeref{sub:sec:br35h})}
+	\label{tab:br35h}
+\end{table}
+
+\subsection{AOMIC (Amsterdam Open MRI Collection)}
+\label{sub:sec:aomic}
+
+PapersWithCode here: \href{https://paperswithcode.com/dataset/aomic}{paperswithcode link}
+
+AOMIC website here: \href{https://nilab-uva.github.io/AOMIC.github.io/}{website link}
+
+Paper explaining the data: \href{https://www.nature.com/articles/s41597-021-00870-6}{paper link}
+
+Lots of images here, mainly usable for controls. Shouldn't be epileptic MRI here.
+
+Repartition here: \citeref{tab:aomic}
+
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l l}
+		\textbf{Origin} & \textbf{Amount} \\
+		T1-weighted & 928 \\
+		No & 1500 \\
+		Pred & 3060 \\
+		Total & 3000 \\
+	\end{tabular}
+	}
+	\caption{Repartition in the benchmark of AOMIC (\citeref{sub:sec:aomic})}
+	\label{tab:aomic}
+\end{table}
+
+\section{Other benchmarks}
+
+\subsection{EEG}
+
+Benchmark here: \href{https://paperswithcode.com/dataset/epilepsy-seizure-prediction}{paperswithcode link}
+
+\section{Tools}
+
+\subsection{TorchIO}
+
+GitHub here: \href{https://github.com/TorchIO-project/torchio}{github link}
+
+PapersWithCode here: \href{https://paperswithcode.com/paper/torchio-a-python-library-for-efficient}{paperswithcode link}

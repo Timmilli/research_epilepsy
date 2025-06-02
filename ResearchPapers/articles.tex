@@ -1,26 +1,20 @@
-\chapter{Researches}
+\chapter{Articles}
 
-\section{Reviews}
+\section{Abstract}
 
-\subsection{\href{https://www.mdpi.com/1660-4601/18/11/5780\#B141-ijerph-18-05780}{Epileptic Seizures Detection Using Deep Learning Techniques A Review (2021)}}
+The most interesting researches and probably the ones that will be used are :
+\begin{itemize}
+	\item \citeref{sub:sec:res1}
+	\item \citeref{sub:sec:res2}
+	\item \citeref{sub:sec:res4}
+	\item \citeref{sub:sec:res5}
+	\item \citeref{sub:sec:res6}
+\end{itemize}
 
-Mostly about the study of EEG with DL, it tackles a lit bit the study of MRI with DL by providing 8 linked researches.
-
-\subsection{\href{https://www.nature.com/articles/s41582-024-00965-9}{Artificial intelligence in epilepsy - applications and pathways to the clinic (May 2024)}}
-
-It tackles a lot of subjects, not only IA for epilepsy.
-
-\subsection{\href{https://www.sciencedirect.com/science/article/pii/S0035378725004874}{Artificial intelligence applied to epilepsy imaging: current status and future perspectives (May 2025)}}
-
-This reviews a lot of article on this subject.
-It also explains what is the procedure
-
-It has an interesting fact about epilepsy in France that could be reused in the report or the presentation.
-
-\section{Articles}
+\section{MRI-based DL/ML}
 
 \subsection{\href{https://www.sciencedirect.com/science/article/pii/S187887502032698X\#abssec0015}{Convolutional Neural Networks for Pediatric Refractory Epilepsy Classification Using Resting-State Functional Magnetic Resonance Imaging (May 2021)}}
-\label{sub:sec:cnn}
+\label{sub:sec:res1}
 
 Study made to evaluate the performance of CNN in "the classification of patients with paediatric epilepsy from healthy control"
 
@@ -28,20 +22,22 @@ To modify CNNs, some parameters were manually changed, such as: 3 hyperparameter
 
 To evaluate them ($\sim$4000 models), the model with the highest sensitivity was kept.
 
+Could be used to test other programs.
+
 \subsubsection{Methods}
 
-Full explanations of each step in the paper, figure summing up here: \citeref{fig:cnn}
+Full explanations of each step in the paper, figure summing up here: \citeref{fig:res1}
 
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=\textwidth]{"CNN_explanation.jpg"}
-	\caption{Linked to this research: \citeref{sub:sec:cnn}}%
-	\label{fig:cnn}
+	\caption{Linked to this research: \citeref{sub:sec:res1}}%
+	\label{fig:res1}
 \end{figure}
 
 \subsubsection{Results}
 
-Results here: \citeref{tab:cnn}
+Results here: \citeref{tab:res1}
 
 \begin{table}[htbp]
 	\centering
@@ -64,7 +60,7 @@ Results here: \citeref{tab:cnn}
 		F1 score & 0.56 \\
 	\end{tabular}
 }
-	\caption{Results of \citeref{sub:sec:cnn}}%
+	\caption{Results of \citeref{sub:sec:res1}}%
 
 	\fbox{
 		\begin{tabular}{l c}
@@ -74,11 +70,11 @@ Results here: \citeref{tab:cnn}
 		\end{tabular}
 	}
 	\caption{Best model parameter values}
-	\label{tab:cnn}
+	\label{tab:res1}
 \end{table}
 
 \subsection{\href{https://academic.oup.com/brain/article/145/11/3859/6659752?login=true}{Interpretable surface-based detection of focal cortical dysplasias: a Multi-centre Epilepsy Lesion Detection study (August 2022)}}
-\label{sub:sec:meld_research}
+\label{sub:sec:res2}
 
 Code via GitHub here: \citeref{sub:sec:meld_github}
 
@@ -94,7 +90,7 @@ These are analysed by the model to declare lesioned vertices.
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=\textwidth]{"meld_method.pdf"}
-	\caption{Linked to this research: \citeref{sub:sec:meld_research}}%
+	\caption{Linked to this research: \citeref{sub:sec:res2}}%
 	\label{fig:meld_explanation}
 \end{figure}
 
@@ -334,7 +330,7 @@ Here: \citeref{tab:res6}
 \end{table}
 
 \subsection{\href{https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf020/7972755\#510821169}{Redefining diagnostic lesional status in temporal lobe epilepsy with artificial intelligence (May 2025)}}
-\label{sub:sec:3dcnn_article}
+\label{sub:sec:res7}
 
 \subsubsection{Model \& Method}
 
@@ -343,6 +339,10 @@ Here: \citeref{tab:res6}
 no biases cuz of group imbalance,
 training:test → 80:20
 training:validation → 80:20
+
+\subsubsection{Results}
+
+Here: \citeref{tab:res7}
 
 \begin{table}[htbp]
 	\centering
@@ -365,5 +365,66 @@ training:validation → 80:20
 		Specificity & 89.8\% \\
 	\end{tabular}
 	}
-	\caption{Results}
+	\caption{Results from \citeref{sub:sec:res7}}
+	\label{tab:res7}
 \end{table}
+
+\subsection{\href{https://insightsimaging.springeropen.com/articles/10.1186/s13244-024-01803-8}{Focal cortical dysplasia lesion segmentation using multiscale transformer (2024)}}
+\label{sub:sec:res8}
+
+Using 2D MRI, one image at a time
+
+Using "multiscale dual-self-attention network (MS-DSA-NET)"
+
+Code is available: \citeref{sec:code8}
+
+Benchmark is available: \citeref{sec:benchmark8}
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{unet.png}
+	\caption{a. Dataset splitting; b. Preprocessing procedure; c. Architecture of the proposed model based on an encoder-decoder structure. Parallel transformer pathways, each consisting of m dual-self-attention (DSA) modules, are inserted to capture the global features on feature maps of different resolutions, ranging from 1/4 to 1/32. d. Architecture of the DSA module, consisting of a spatial self-attention branch and a channel self-attention branch From research: \citeref{sub:sec:res8}}
+	\label{fig:res8}
+\end{figure}
+
+\subsubsection{Results}
+
+Here: \citeref{tab:res8}
+
+\begin{table}[htbp]
+	\centering
+	\fbox{
+	\begin{tabular}{l c}
+		n & 170 \\
+		patients & 85 \\
+		controls & 85 \\
+		train ratio & 0.6 \\
+		test ratio & 0.25 \\
+		valid ratio & 0.15 \\
+	\end{tabular}
+	}
+	\caption{Benchmark}
+
+	\fbox{
+	\begin{tabular}{l c}
+		Sensitivity & 82.4\% \\
+		Specificity & ??\% \\
+		Dice coefficient & 0.410
+	\end{tabular}
+	}
+	\caption{Results from \citeref{sub:sec:res8}}
+	\label{tab:res8}
+\end{table}
+
+
+\section{EEG-based DL/ML}
+
+\subsection{\href{https://ieeexplore.ieee.org/abstract/document/7365453}{Epileptic Seizure Prediction Based on Multivariate Statistical Process Control of Heart Rate Variability Features (2016)}}
+
+This one uses heart rate variability because: "Because excessive neuronal activities in the preictal period of epilepsy affect the autonomic nervous systems and autonomic nervous function affects HRV, it is assumed that a seizure can be predicted through monitoring HRV."
+
+The goal is to have real-time prediction to improve their quality of live by alerting patients of seizures and 
+
+\subsection{\href{https://dl.acm.org/doi/abs/10.1145/3386580}{Augmenting DL with Adversarial Training for Robust Prediction of Epilepsy Seizures (2020)}}
+
+Using EEG, it wants to have real-time prediction. Paper not available freely.
