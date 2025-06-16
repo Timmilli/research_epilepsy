@@ -1,11 +1,11 @@
-\documentclass[a4paper,french,english]{report}
+\documentclass[a4paper,french]{report}
 
 % This template is by default in draft mode. Erase the parameter in the document class to have images.
 % It uses the report mode by default with custom chapters.
 % It uses \citeref{[ref]} instead of \cref{[ref]} to correct a bug with babel and cleveref.
 
 \usepackage[utf8]{inputenc}
-\usepackage[french]{babel} 
+\usepackage[main=french]{babel} 
 \usepackage[T1]{fontenc}
 \usepackage{titlesec}
 
@@ -54,13 +54,29 @@
     \end{otherlanguage}
 }
 
+\newcommand{\insertfigure}[2]{%
+	\subsubsection{Method}%
+	%
+	Here \citeref{fig:#2}%
+	%
+	\begin{figure}[htbp]%
+		\centering%
+		\includegraphics[width=\textwidth]{#1}%
+		\caption{From \citeref{#2}}%
+		\label{fig:#2}%
+	\end{figure}%
+}
+
 \begin{document}
 
+\pagenumbering{roman}
 \tableofcontents
+\cleardoublepage
 
-\newpage
-
+\pagenumbering{arabic}
 \include{vocab.tex}
+
+\include{usable.tex}
 
 \include{culture.tex}
 
