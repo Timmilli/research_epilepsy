@@ -1,15 +1,14 @@
-FILE_NAME = main
-
-default: pdf clean
+default: pdf
 
 pdf:
-	pdflatex $(FILE_NAME).tex
-	pdflatex $(FILE_NAME).tex
+	latexmk
+
+continuously:
+	latexmk -pvc
 
 clean:
-	rm -f *.aux *.log *.out *.synctex.gz *.toc
+	latexmk -c
 
-deepClean: clean
-	rm -f *.pdf
+deepClean:
+	latexmk -C
 
-all: pdf
