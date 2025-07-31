@@ -1,487 +1,487 @@
 id,group,sex,age_epi,hemisphere,lobe,type,pathology,op memo,age_scan,age_surg,ilae_year1,ilae_year2,ilae_year3,ilae_year4,ilae_year5
-1,fcd,M,1 to 2,R,T,Lx,OTHER,oligodendroglial hyperplasia,20 to 24,20 to 24,4,4,4,4,NA
-2,fcd,F,15 to 19,R,T,Lx,HS,type 1,35 to 39,35 to 39,1,1,1,1,NA
-3,fcd,M,15 to 19,L,T,Lesx,DNT,NA,25 to 29,25 to 29,1,1,1,1,1
-4,fcd,M,11 to 14,R,T,Lx,OTHER,EFG,40 to 44,45 to 49,4,4,2,2,2
-5,fcd,F,5 to 7,L,T,Lx,HS,type 1; (& FCD type IIIA),45 to 49,45 to 49,2,1,NA,NA,NA
-6,fcd,F,20 to 24,R,P,Lesx,CAV,NA,20 to 24,25 to 29,3,3,1,NA,NA
-7,fcd,F,5 to 7,R,T,Lx,HS,type 1,25 to 29,25 to 29,1,1,NA,NA,NA
-8,fcd,F,3 to 4,R,P,Lesx,DNT,GR 1,40 to 44,40 to 44,1,1,1,1,1
-10,fcd,M,20 to 24,L,T,Lesx,DNT,GR 1,20 to 24,25 to 29,4,4,4,4,4
-11,fcd,F,5 to 7,R,T,Lx,HS,type 1 or 3 - cannot specify subtype due to specimen,20 to 24,25 to 29,1,1,NA,NA,NA
-13,fcd,M,11 to 14,R,T,Lesx,DNT,GG GR1,25 to 29,25 to 29,NA,NA,NA,NA,NA
-14,fcd,F,5 to 7,R,T,Lx,OTHER,NAD,20 to 24,20 to 24,4,1,NA,NA,NA
-16,fcd,M,Over 40,R,T,Lx,HS,type 1,55 to 59,60 to 64,1,1,4,4,NA
-17,fcd,F,20 to 24,L,P,Lesx,GL,Astrocytotic HAM; low grade,30 to 34,30 to 34,4,1,1,1,NA
-18,fcd,F,11 to 14,L,F,Lx,CAV,NA,35 to 39,35 to 39,1,NA,NA,NA,NA
-19,fcd,M,3 to 4,L,T,Lx,DNT,NA,25 to 29,30 to 34,1,4,4,1,NA
-21,fcd,M,25 to 29,R,T,Lx,CAV,NA,25 to 29,30 to 34,1,1,1,1,NA
-22,fcd,F,1 to 2,L,T,Lx,DNT,GNT (GG); GR 1 ,30 to 34,40 to 44,1,3,1,1,3
-23,fcd,M,35 to 39,L,T,Lx,HS,type 1; (& FCD type IIIA),35 to 39,40 to 44,4,4,NA,NA,NA
-24,fcd,F,Over 40,R,T,Lx,OTHER,NAD,45 to 49,50 to 54,4,5,5,5,5
-25,fcd,F,3 to 4,L,T,Lx,HS,HS(EFS),15 to 20,15 to 20,1,1,1,1,1
-26,fcd,F,Less than 1,L,T,Lx,DUAL,HS; FCD (type IIIB); DNT (GG; GR 1),25 to 29,25 to 29,1,1,1,1,1
-27,fcd,F,8 to 10,L,T,Lx,HS,NA,40 to 44,40 to 44,1,2,2,1,1
-28,fcd,M,15 to 19,R,T,Lx,OTHER,MCD; type IIA,20 to 24,20 to 24,5,4,4,4,NA
-29,fcd,F,Less than 1,L,T,Lx,HS,NA,30 to 34,35 to 39,4,3,3,3,1
-30,fcd,F,25 to 29,L,F,Lx,FCD,type IIB,55 to 59,60 to 64,2,2,2,NA,NA
-31,fcd,F,11 to 14,R,T,Lx,HS,NA,50 to 54,50 to 54,3,4,4,NA,NA
-32,fcd,F,5 to 7,R,T,Lx,OTHER,NAD,30 to 34,30 to 34,3,1,1,1,1
-33,fcd,M,8 to 10,L,T,Lx,HS,NA,35 to 39,35 to 39,1,1,1,3,5
-34,fcd,F,Less than 1,L,F,Lx,FCD,type IIB,20 to 24,20 to 24,1,1,1,1,1
-35,fcd,F,25 to 29,L,T,Lesx,CAV,NA,30 to 34,30 to 34,1,1,1,NA,NA
-36,fcd,M,20 to 24,L,T,Lx,OTHER,EFG,30 to 34,35 to 39,1,1,4,3,3
-37,fcd,F,8 to 10,L,T,Lx,HS,NA,30 to 34,35 to 39,1,1,2,2,2
-38,fcd,M,5 to 7,R,T,Lx,HS,type 1,30 to 34,35 to 39,5,5,5,NA,NA
-39,fcd,F,20 to 24,L,T,Lx,HS,type 1,55 to 59,55 to 59,1,NA,NA,NA,NA
-40,fcd,F,11 to 14,R,T,Lx,HS,NA,40 to 44,40 to 44,4,3,4,3,1
-41,fcd,M,5 to 7,R,T,Lx,HS,NA,15 to 20,15 to 20,1,1,1,1,1
-42,fcd,M,11 to 14,R,T,Lx,OTHER,negative ,20 to 24,25 to 29,3,4,4,4,4
-43,fcd,F,5 to 7,L,T,Lx,HS,NA,45 to 49,45 to 49,1,1,1,1,1
-44,fcd,F,25 to 29,R,T,Lx,TREBLE,OTHER (encephalocele); OTHER (MCD; mild); OTHER (SCAR),35 to 39,35 to 39,1,2,4,NA,NA
-45,fcd,F,15 to 19,R,T,Lx,HS,(& FCD type IIIA),35 to 39,35 to 39,1,1,1,1,1
-46,fcd,F,20 to 24,L,T,Lx,HS,NA,30 to 34,30 to 34,2,2,3,4,4
-47,fcd,M,15 to 19,L,T,Lx,DNT,NA,65 to 70,65 to 70,1,3,3,1,1
-48,fcd,M,11 to 14,L,T,Lx,DUAL,HS; GL,45 to 49,50 to 54,1,2,2,3,NA
-49,fcd,F,15 to 19,R,T,Lx,HS,HS(EFS); ,45 to 49,45 to 49,4,4,4,NA,NA
-50,fcd,F,8 to 10,R,O,Lx,OTHER,leptomeningeal angiomatosis / cortical calcification (SWS),50 to 54,55 to 59,4,4,5,5,NA
-54,fcd,M,30 to 34,L,T,Lx,OTHER,non-specific neurone loss,50 to 54,55 to 59,1,1,1,1,1
-55,fcd,M,1 to 2,L,T,Lx,HS,NA,35 to 39,35 to 39,1,1,1,1,1
-56,fcd,F,5 to 7,L,T,Lx,HS,type 1,30 to 34,35 to 39,1,NA,NA,NA,NA
-57,fcd,M,3 to 4,R,T,Lx,HS,NA,40 to 44,40 to 44,1,1,1,1,1
-58,fcd,M,5 to 7,L,P,Lx,CAV,NA,30 to 34,35 to 39,4,4,4,4,4
-59,fcd,F,35 to 39,R,T,Lx,CAV,NA,40 to 44,40 to 44,1,5,5,5,5
-60,fcd,M,Over 40,L,T,Lx,DUAL,CAV; mild HS (type 3),60 to 64,60 to 64,1,1,NA,NA,NA
-61,fcd,M,35 to 39,R,T,Lx,HS,type 1,45 to 49,50 to 54,1,1,1,NA,NA
-63,fcd,M,5 to 7,L,T,Lx,OTHER,Gliosis,25 to 29,25 to 29,1,1,1,1,1
-64,fcd,M,8 to 10,R,T,Lx,HS,NA,30 to 34,30 to 34,1,1,1,1,1
-65,fcd,F,15 to 19,R,T,Lesx,CAV,NA,50 to 54,50 to 54,1,1,1,1,1
-66,fcd,M,15 to 19,R,T,Lx,OTHER,NAD (no HS detected),25 to 29,30 to 34,4,4,4,4,4
-67,fcd,F,15 to 19,L,T,Lx,HS,type 1,40 to 44,45 to 49,1,1,1,1,3
-68,fcd,F,20 to 24,L,T,Lx,HS,NA,40 to 44,40 to 44,4,4,4,4,1
-69,fcd,F,11 to 14,R,T,Lx,DNT,NA,15 to 20,15 to 20,1,1,1,1,1
-70,fcd,M,8 to 10,R,T,Lx,HS,type 1; (also WM damage in middle T gyrus),45 to 49,50 to 54,1,1,1,NA,NA
-71,fcd,M,11 to 14,L,T,Lx,HS,NA,55 to 59,55 to 59,1,1,1,1,1
-72,fcd,F,30 to 34,L,F,Lx,DNT,NA,45 to 49,50 to 54,5,4,4,5,5
-74,fcd,M,11 to 14,L,T,Lx,HS,NA,15 to 20,20 to 24,1,1,1,1,1
-76,fcd,F,3 to 4,R,T,Lx,HS,type 1,25 to 29,30 to 34,2,1,1,1,1
-77,fcd,F,Less than 1,L,T,Lx,HS,NA,20 to 24,20 to 24,4,4,4,4,4
-78,fcd,F,20 to 24,L,T,Lx,HS,NA,60 to 64,60 to 64,1,1,1,1,1
-79,fcd,F,8 to 10,L,F,Lx,OTHER,Gliosis,20 to 24,20 to 24,2,3,3,4,NA
-81,fcd,M,11 to 14,L,F,Lx,GL,AC; low grade,30 to 34,30 to 34,2,1,1,1,NA
-82,fcd,F,8 to 10,R,T,Lx,HS,NA,20 to 24,20 to 24,1,1,1,1,1
-83,fcd,M,5 to 7,R,F,Lesx,FCD,type IIB,30 to 34,30 to 34,3,4,4,NA,NA
-84,fcd,F,Less than 1,R,T,Lx,HS,NA,20 to 24,20 to 24,1,1,1,NA,NA
-85,fcd,F,35 to 39,L,T,Lx,HS,NA,40 to 44,45 to 49,2,3,2,3,4
-86,fcd,M,8 to 10,R,F,Lx,FCD,type IIB,20 to 24,25 to 29,1,NA,NA,NA,NA
-87,fcd,F,20 to 24,L,T,Lx,HS,NA,50 to 54,50 to 54,1,1,1,1,1
-88,fcd,M,35 to 39,L,T,Lesx,CAV,NA,45 to 49,45 to 49,4,NA,NA,NA,NA
-89,fcd,M,5 to 7,L,T,Lx,DUAL,HS (type 1); OTHER (cortical scar in superior T gyrus),30 to 34,30 to 34,1,1,1,1,1
-90,fcd,M,15 to 19,L,T,Lx,HS,NA,40 to 44,40 to 44,1,1,1,NA,NA
-91,fcd,F,20 to 24,R,T,Lesx,CAV,NA,25 to 29,25 to 29,1,1,3,1,1
-92,fcd,M,11 to 14,L,T,Lx,HS,type 1,35 to 39,35 to 39,4,4,NA,NA,NA
-93,fcd,F,3 to 4,L,T,Lx,HS,type 1,45 to 49,50 to 54,1,1,NA,NA,NA
-94,fcd,F,11 to 14,R,T,Lx,HS,NA,45 to 49,45 to 49,1,1,3,1,1
-95,fcd,F,8 to 10,R,T,Lx,HS,NA,30 to 34,30 to 34,1,2,2,1,NA
-96,fcd,F,Over 40,L,T,Lx,DUAL,CAV; HS (HS(EFS); type 3),65 to 70,65 to 70,1,1,1,1,NA
-97,fcd,M,Less than 1,R,T,Lx,HS,type 1,40 to 44,45 to 49,2,3,NA,NA,NA
-98,fcd,M,5 to 7,R,F,Lx,OTHER,MCD (subtle). Scattered hypertrophic; lipofuscin rich neurones but no definite evidence of FCD,20 to 24,25 to 29,1,1,1,NA,NA
-100,fcd,M,5 to 7,R,P,Lesx,FCD,type IIB,25 to 29,25 to 29,3,3,1,1,1
-101,fcd,F,11 to 14,R,T,Lx,HS,NA,20 to 24,20 to 24,2,3,4,4,4
-102,fcd,F,20 to 24,R,P,Lesx,DNT,GR 1,30 to 34,30 to 34,3,NA,NA,NA,NA
-103,fcd,M,8 to 10,L,F,Lx,FCD,type IIA,25 to 29,30 to 34,NA,NA,NA,NA,NA
-104,fcd,M,11 to 14,R,F,Lx,OTHER,necrosis gliosis,15 to 20,15 to 20,5,5,5,5,5
-105,fcd,F,3 to 4,R,T,Lx,HS,NA,35 to 39,35 to 39,1,1,1,1,1
-106,fcd,F,Less than 1,L,T,Lx,HS,NA,20 to 24,25 to 29,2,2,2,3,2
-108,fcd,F,5 to 7,R,T,Lx,OTHER,Gliosis & encephalocele,30 to 34,30 to 34,NA,NA,NA,NA,NA
-109,fcd,M,1 to 2,L,T,Lx,HS,NA,40 to 44,45 to 49,1,1,1,1,1
-110,fcd,M,25 to 29,R,F,Lx,FCD,type IIB,35 to 39,40 to 44,1,1,1,1,1
-111,fcd,F,30 to 34,L,T,Lx,OTHER,Gliosis,35 to 39,40 to 44,5,5,4,4,4
-113,fcd,M,15 to 19,R,T,Lx,TREBLE,OTHER (HG); OTHER SMALL PERIVENTRICULAR HETEROTOPIA; OTHER (MILD MCD TYPE II),15 to 20,20 to 24,5,4,NA,NA,NA
-114,fcd,F,30 to 34,R,T,Lx,HS,NA,35 to 39,35 to 39,1,1,1,1,1
-116,fcd,M,11 to 14,L,P,Lesx,FCD,type IIB,25 to 29,25 to 29,1,1,1,NA,NA
-117,fcd,F,20 to 24,R,T&O,Lesx,DNT,GR 1,35 to 39,35 to 39,4,1,1,1,1
-118,fcd,M,8 to 10,L,T,Lx,HS,(& FCD type IIIA),35 to 39,40 to 44,2,1,1,1,NA
-119,fcd,M,11 to 14,R,T,Lx,DNT,GNT; low grade,15 to 20,20 to 24,1,1,1,1,NA
-120,fcd,M,15 to 19,L,T,Lx,HS,type 1,20 to 24,25 to 29,1,1,1,1,NA
-122,fcd,F,20 to 24,R,T,Lx,OTHER,meningioangiomatosis,55 to 59,60 to 64,1,1,1,1,NA
-123,fcd,M,Over 40,R,O,Lesx,CAV,NA,55 to 59,60 to 64,1,2,2,NA,NA
-124,fcd,M,20 to 24,L,T,Lesx,OTHER,telangiectasia,25 to 29,30 to 34,2,1,1,3,3
-125,fcd,F,5 to 7,L,T,Lx,HS,type 1,30 to 34,35 to 39,2,1,NA,NA,NA
-126,fcd,F,11 to 14,R,T,Lx,HS,NA,45 to 49,45 to 49,1,1,1,NA,NA
-127,fcd,F,8 to 10,L,T,Lx,HS,(& FCD type IIIA),45 to 49,45 to 49,1,1,1,1,1
-128,fcd,F,5 to 7,R,P,Lx,FCD,type IIA,15 to 20,15 to 20,4,4,4,4,4
-129,fcd,F,35 to 39,L,F,Lx,CAV,(partial),40 to 44,40 to 44,1,1,1,NA,NA
-130,fcd,M,8 to 10,R,F,Lx,OTHER,Gliosis,35 to 39,35 to 39,1,1,1,1,2
-131,fcd,M,11 to 14,R,O,Lx,OTHER,NAD (MT-not FCD),20 to 24,25 to 29,1,1,1,4,3
-132,fcd,M,30 to 34,R,T,Lx,DUAL,CAV; HS (HS(EFS)),45 to 49,45 to 49,3,4,4,4,4
-133,fcd,M,30 to 34,L,T,Lx,DNT,GR 1,35 to 39,40 to 44,1,1,1,1,NA
-134,fcd,M,15 to 19,L,T,Lesx,DNT,GR 1,25 to 29,25 to 29,3,1,1,1,1
-135,fcd,F,15 to 19,R,T,Lx,HS,type 1,50 to 54,50 to 54,1,1,NA,NA,NA
-136,fcd,M,30 to 34,R,F,Lesx,CAV,NA,30 to 34,35 to 39,4,4,4,4,4
-137,fcd,M,11 to 14,L,F,Lx,OTHER,Gliosis,30 to 34,30 to 34,1,1,1,3,3
-138,fcd,M,1 to 2,L,O,Lx,FCD,type IIA,15 to 20,20 to 24,1,4,4,4,4
-141,fcd,M,15 to 19,L,T,Lesx,DNT,GNT GR 1,30 to 34,30 to 34,1,1,NA,NA,NA
-142,fcd,F,5 to 7,L,T,Lx,DUAL,HS; OTHER (cortical VAS abnormalities),30 to 34,35 to 39,2,2,2,2,3
-143,fcd,F,11 to 14,L,T,Lx,HS,HS(EFS),30 to 34,30 to 34,4,4,4,4,4
-144,fcd,F,11 to 14,R,T,Lx,HS,type 1,45 to 49,45 to 49,1,NA,NA,NA,NA
-145,fcd,F,15 to 19,L,T,Lesx,DUAL,DNT (GR 1); HS (type 3),45 to 49,50 to 54,3,3,4,4,4
-146,fcd,F,15 to 19,L,T,Lx,OTHER,NAD,20 to 24,20 to 24,5,5,4,5,5
-147,fcd,M,5 to 7,R,T,Lx,HS,NA,30 to 34,30 to 34,1,1,1,1,1
-149,fcd,F,8 to 10,L,T,Lx,HS,NA,25 to 29,25 to 29,3,4,4,4,2
-150,fcd,F,15 to 19,L,T,Lx,DUAL,HS; OTHER (TL scar),25 to 29,30 to 34,1,1,1,1,1
-151,fcd,F,25 to 29,R,F,Lesx,OTHER,cortical injury; cause unclear,30 to 34,35 to 39,3,4,4,NA,NA
-152,fcd,F,5 to 7,R,T,Lx,HS,NA,20 to 24,20 to 24,1,1,3,1,NA
-153,fcd,F,35 to 39,R,T,Lx,HS,type 2,40 to 44,45 to 49,3,3,3,3,NA
-154,fcd,M,15 to 19,L,T,Lx,HS,NA,30 to 34,30 to 34,1,1,1,1,1
-155,fcd,F,1 to 2,R,T,Lx,HS,NA,25 to 29,30 to 34,3,3,3,1,1
-156,fcd,M,25 to 29,L,T,Lx,HS,NA,30 to 34,30 to 34,1,2,2,5,5
-157,fcd,F,20 to 24,L,T,Lx,OTHER,Gliosis,30 to 34,30 to 34,4,4,4,5,5
-158,fcd,M,15 to 19,R,T,Lx,TBC,& also Lesx for epid cyst,20 to 24,25 to 29,NA,NA,NA,NA,NA
-159,fcd,M,20 to 24,R,O,Lx,OTHER,gray matter heterotopia,25 to 29,25 to 29,4,4,1,NA,NA
-160,fcd,M,30 to 34,R,T,Lx,DUAL,HS; OTHER (COLLAGEN NODULE),35 to 39,40 to 44,1,1,1,1,1
-161,fcd,F,15 to 19,R,T,Lx,HS,NA,30 to 34,30 to 34,3,2,2,2,2
-163,fcd,F,20 to 24,R,T,Lx,OTHER,Gliosis,25 to 29,25 to 29,1,1,1,1,NA
-164,fcd,F,8 to 10,L,T,Lx,HS,type 3,40 to 44,45 to 49,2,NA,NA,NA,NA
-165,fcd,F,8 to 10,L,T,Lx,HS,NA,20 to 24,20 to 24,2,3,3,4,4
-166,fcd,F,1 to 2,R,P,Lx,FCD,type IIB (TSs cannot be excluded on evaluation of single cortical lesion),30 to 34,30 to 34,1,1,1,2,1
-167,fcd,F,1 to 2,L,T,Lx,HS,NA,25 to 29,30 to 34,1,1,1,1,1
-168,fcd,M,30 to 34,L,T,Lx,HS,NA,40 to 44,45 to 49,1,2,3,3,1
-169,fcd,M,15 to 19,L,F,Lesx,DNT,MVNT (GR I),40 to 44,40 to 44,1,1,NA,NA,NA
-170,fcd,M,25 to 29,R,F,Lx,OTHER,GLIOSIS,45 to 49,50 to 54,3,3,4,5,5
-171,fcd,F,25 to 29,L,T,Lx,OTHER,Gliosis,35 to 39,40 to 44,NA,NA,NA,NA,NA
-172,fcd,F,5 to 7,L,F,Lx,FCD,type IIB,20 to 24,25 to 29,1,1,NA,NA,NA
-173,fcd,F,5 to 7,L,T,Lx,DNT,GG; GR 1,35 to 39,45 to 49,1,1,1,1,1
-174,fcd,M,20 to 24,L,T,Lx,HS,type 1,25 to 29,30 to 34,1,1,1,1,1
-175,fcd,F,15 to 19,R,T,Lx,HS,NA,40 to 44,40 to 44,3,3,4,4,4
-176,fcd,F,15 to 19,L,T,Lx,HS,NA,20 to 24,25 to 29,1,4,4,4,4
-177,fcd,F,20 to 24,R,F,Lx,CAV,NA,25 to 29,25 to 29,1,1,1,1,1
-178,fcd,M,11 to 14,L,F,Lx,FCD,type IIB,25 to 29,25 to 29,1,1,NA,NA,NA
-179,fcd,M,15 to 19,R,P,Lesx,CAV,NA,30 to 34,35 to 39,4,4,4,4,4
-180,fcd,M,20 to 24,R,T,Lesx,CAV,NA,30 to 34,30 to 34,1,1,1,1,1
-181,fcd,F,30 to 34,R,T,Lx,OTHER,Gliosis,35 to 39,35 to 39,3,3,2,1,1
-182,fcd,F,20 to 24,L,T,Lesx,DNT,GNT GR 1,25 to 29,25 to 29,1,1,1,NA,NA
-183,fcd,M,20 to 24,L,T,Lx,HS,NA,30 to 34,30 to 34,2,2,2,4,4
-184,fcd,F,5 to 7,R,T,Lx,DUAL,HS; OTHER (chronic inflammation),30 to 34,30 to 34,1,1,1,1,1
-185,fcd,F,20 to 24,L,T,Lx,DUAL,DNT (GNT); HS (type 1),25 to 29,25 to 29,2,2,2,1,NA
-186,fcd,F,25 to 29,L,T,Lx,HS,NA,25 to 29,25 to 29,1,1,1,1,1
-187,fcd,F,1 to 2,R,F,Lx,FCD,type IIB,25 to 29,30 to 34,1,1,1,1,1
-190,fcd,F,15 to 19,R,T,Lx,OTHER,EFG,40 to 44,40 to 44,3,4,4,NA,NA
-191,fcd,F,8 to 10,L,T,Lx,HS,NA,30 to 34,30 to 34,4,4,4,5,5
-192,fcd,M,15 to 19,R,T,Lesx,DNT,WHO GR 1,20 to 24,20 to 24,1,NA,NA,NA,NA
-194,fcd,F,20 to 24,R,T,Lx,OTHER,Gliosis,35 to 39,35 to 39,2,1,2,2,1
-195,fcd,F,30 to 34,R,F,Lesx,DNT,GR 1,50 to 54,55 to 59,1,1,1,NA,NA
-196,fcd,F,1 to 2,L,T,Lx,HS,type 1,35 to 39,35 to 39,4,4,4,NA,NA
-197,fcd,F,1 to 2,R,T,Lx,HS,NA,55 to 59,60 to 64,1,1,1,1,1
-198,fcd,M,20 to 24,L,T,Lx,CAV,NA,30 to 34,35 to 39,4,4,3,NA,NA
-199,fcd,F,30 to 34,L,T,Lx,HS,type 1 or 3,35 to 39,35 to 39,1,4,3,3,1
-201,fcd,M,15 to 19,R,T,Lx,HS,NA,50 to 54,50 to 54,1,3,3,NA,NA
-202,fcd,M,11 to 14,L,T,Lx,HS,type 1,35 to 39,35 to 39,3,3,4,1,1
-203,fcd,F,1 to 2,R,T,Lx,HS,NA,55 to 59,55 to 59,1,1,1,3,1
-204,fcd,F,5 to 7,L,F,Lx,FCD,type IIB,30 to 34,30 to 34,1,1,1,1,1
-206,fcd,F,20 to 24,R,T,Lx,CAV,NA,40 to 44,40 to 44,2,2,2,4,NA
-207,fcd,F,20 to 24,R,T,Lx,HS,NA,45 to 49,45 to 49,1,1,1,1,1
-208,fcd,F,1 to 2,L,T,Lx,HS,type 1,15 to 20,20 to 24,3,4,NA,NA,NA
-209,fcd,M,11 to 14,L,F,Lx,FCD,type IIB,20 to 24,25 to 29,1,1,1,1,NA
-209,fcd,M,11 to 14,L,F,Lx,FCD,type IIB,20 to 24,25 to 29,1,1,1,1,NA
-213,fcd,F,20 to 24,L,F,Lesx,DNT,GG; GR 1,35 to 39,35 to 39,1,1,1,1,1
-214,fcd,M,11 to 14,R,T,Lesx,FCD,type IIB,20 to 24,25 to 29,2,2,2,2,3
-215,fcd,F,3 to 4,L,T,Lx,HS,type 1,35 to 39,35 to 39,1,1,1,1,NA
-216,fcd,F,11 to 14,L,P,Lesx,FCD,type IIB,20 to 24,25 to 29,3,1,NA,NA,NA
-217,fcd,M,15 to 19,L,T,Lx,HS,type 1; (& FCD type IIIA),55 to 59,55 to 59,1,4,4,4,NA
-218,fcd,F,15 to 19,L,T,Lx,HS,NA,35 to 39,45 to 49,4,4,4,4,4
-219,fcd,M,8 to 10,R,T,Lx,HS,NA,45 to 49,50 to 54,1,1,1,1,1
-220,fcd,M,1 to 2,L,T,Lx,HS,type 1,40 to 44,45 to 49,1,1,1,NA,NA
-221,fcd,M,30 to 34,L,T,Lesx,DNT,GNT TYPE 1,30 to 34,30 to 34,2,NA,NA,NA,NA
-222,fcd,F,8 to 10,R,T,Lx,HS,NA,35 to 39,40 to 44,1,3,3,4,4
-223,fcd,M,5 to 7,R,F,Lx,FCD,type IIB,30 to 34,35 to 39,3,1,1,1,1
-224,fcd,F,25 to 29,L,T,Lx,OTHER,BD,35 to 39,40 to 44,1,2,3,3,NA
-225,fcd,M,15 to 19,R,T,Lx,DUAL,DNT (GNT); HS (partial),20 to 24,25 to 29,1,4,4,4,NA
-226,fcd,F,5 to 7,R,P,Lx,FCD,type IIB,15 to 20,20 to 24,NA,NA,NA,NA,NA
-227,fcd,F,3 to 4,L,T,Lx,HS,NA,40 to 44,40 to 44,1,3,3,3,3
-228,fcd,M,30 to 34,R,T,Lesx,CAV,NA,45 to 49,45 to 49,1,1,1,1,1
-229,fcd,F,5 to 7,L,T,Lx,HS,NA,45 to 49,45 to 49,1,1,1,NA,NA
-230,fcd,M,11 to 14,L,T&P,Lx,DNT,GR 1,25 to 29,25 to 29,1,1,1,NA,NA
-231,fcd,M,5 to 7,R,F,Lx,OTHER,NAD (no specific focal pathology identified; no FCD),20 to 24,25 to 29,3,3,3,NA,NA
-232,fcd,F,11 to 14,R,T,Lx,OTHER,No definite HS,35 to 39,45 to 49,5,NA,NA,NA,NA
-233,fcd,M,5 to 7,R,T,Lx,HS,NA,50 to 54,50 to 54,1,3,3,4,3
-234,fcd,F,15 to 19,L,T,Lesx,OTHER,AC; GR 2 (PXA),45 to 49,45 to 49,4,4,4,4,4
-235,fcd,M,25 to 29,L,T,Lx,HS,NA,50 to 54,50 to 54,4,1,1,3,3
-236,fcd,F,5 to 7,L,T,Lx,HS,NA,15 to 20,15 to 20,1,1,1,1,1
-237,fcd,F,25 to 29,R,T,Lx,HS,type 1,35 to 39,40 to 44,1,1,1,1,1
-240,fcd,M,8 to 10,L,T,Lx,HS,NA,25 to 29,35 to 39,1,1,1,NA,NA
-241,fcd,F,8 to 10,R,O&P,Lx,OTHER,TSL (in file-not on cdr),25 to 29,25 to 29,1,1,1,1,1
-243,fcd,F,20 to 24,L,T,Lx,DNT,GR 1,55 to 59,60 to 64,1,1,1,1,1
-245,fcd,F,3 to 4,L,T,Lesx,GL,GR 1,40 to 44,40 to 44,4,4,4,4,4
-246,fcd,M,8 to 10,R,T,Lx,HS,NA,35 to 39,35 to 39,5,5,5,5,5
-247,fcd,F,8 to 10,R,T,Lx,HS,NA,35 to 39,40 to 44,4,4,4,4,4
-248,fcd,M,11 to 14,R,P,Lesx,FCD,type IIB,25 to 29,30 to 34,3,1,1,1,3
-249,fcd,M,15 to 19,R,F,Lx,OTHER,NAD,25 to 29,30 to 34,4,4,4,5,4
-250,fcd,F,11 to 14,R,T,Lx,HS,NA,35 to 39,40 to 44,1,1,1,1,1
-251,fcd,F,8 to 10,L,T,Lx,HS,NA,50 to 54,50 to 54,2,2,4,3,1
-252,fcd,M,11 to 14,L,F,Lx,OTHER,NAD,15 to 20,15 to 20,2,2,2,2,2
-253,fcd,M,25 to 29,R,T,Lx,CAV,NA,25 to 29,30 to 34,1,1,NA,NA,NA
-254,fcd,F,Less than 1,R,O,Lesx,FCD,type IIA (MT-Feb18-unusual path; skip lesions that look FCD IIa & pachygria),15 to 20,20 to 24,4,4,5,4,4
-255,fcd,F,11 to 14,R,T,Lx,HS,NA,20 to 24,20 to 24,1,4,4,4,4
-256,fcd,M,5 to 7,L,T,Lx,DNT,NA,30 to 34,30 to 34,1,1,2,2,1
-257,fcd,F,20 to 24,R,T,Lesx,OTHER,PXA (WHO GR II),20 to 24,25 to 29,1,1,NA,NA,NA
-258,fcd,F,15 to 19,R,F,Lx,OTHER,MCD; type II,50 to 54,55 to 59,4,4,4,4,4
-259,fcd,M,Over 40,L,T,Lx,HS,NA,45 to 49,45 to 49,1,1,1,1,1
-260,fcd,F,20 to 24,R,T,Lx,OTHER,Gliosis (had encephalocoele) (focal WM matter rarefaction and gliosis (see comments)),30 to 34,45 to 49,1,1,1,NA,NA
-262,fcd,F,20 to 24,L,T,Lx,DNT,GG; WHO GR I,25 to 29,30 to 34,2,2,4,4,NA
-263,fcd,F,15 to 19,L,T,Lx,HS,atypical,25 to 29,30 to 34,4,5,4,1,1
-264,fcd,F,3 to 4,L,T,Lx,HS,NA,45 to 49,50 to 54,3,1,1,1,1
-265,fcd,F,1 to 2,L,T,Lx,HS,type 2,15 to 20,15 to 20,1,1,1,1,1
-266,fcd,F,11 to 14,L,T,Lx,HS,NA,15 to 20,20 to 24,1,1,1,1,1
-267,fcd,M,11 to 14,L,T,Lx,HS,NA,20 to 24,20 to 24,1,1,1,1,3
-268,fcd,M,15 to 19,L,T,Lesx,DNT,HAM (& lewy bodies; unusual case),60 to 64,60 to 64,4,NA,NA,NA,NA
-270,fcd,F,1 to 2,L,T,Lx,HS,(& FCD type IIIA),15 to 20,15 to 20,1,2,3,1,4
-271,fcd,F,15 to 19,R,T,Lx,HS,type 1,30 to 34,30 to 34,3,1,3,3,1
-273,fcd,F,20 to 24,L,T,Lx,HS,type 1,20 to 24,20 to 24,1,1,NA,NA,NA
-275,fcd,M,1 to 2,L,T,Lx,HS,NA,15 to 20,15 to 20,2,1,1,1,1
-276,fcd,M,20 to 24,L,T,Lesx,OTHER,EPE,25 to 29,25 to 29,1,1,1,1,1
-277,fcd,M,20 to 24,L,T,Lx,DUAL,DNT (GR 1); HS (type 2),20 to 24,25 to 29,1,1,1,1,1
-278,fcd,F,20 to 24,L,P,Lesx,GL,AC; GR 1,25 to 29,30 to 34,1,1,1,1,1
-279,fcd,M,25 to 29,L,T,Lx,HS,NA,35 to 39,40 to 44,5,5,4,4,4
-280,fcd,F,8 to 10,R,F,Lx,FCD,type IIB,25 to 29,25 to 29,1,1,1,1,1
-282,fcd,M,11 to 14,L,T,Lx,HS,type 1,20 to 24,25 to 29,2,NA,NA,NA,NA
-283,fcd,F,11 to 14,R,F,Lx,OTHER,NAD (no evidence of FCD or other lesion),15 to 20,30 to 34,4,4,4,NA,NA
-285,fcd,F,5 to 7,R,T,Lx,FCD,type IIB,20 to 24,25 to 29,1,1,1,1,1
-286,fcd,F,15 to 19,R,F,Lesx,CAV,NA,25 to 29,25 to 29,1,1,2,2,NA
-287,fcd,M,11 to 14,R,T,Lx,DNT,GNT; GR 1,35 to 39,45 to 49,1,1,3,4,4
-288,fcd,F,35 to 39,L,T,Lx,DNT,GC,55 to 59,55 to 59,4,4,4,4,4
-289,fcd,F,15 to 19,R,T,Lx,OTHER,EFG,20 to 24,20 to 24,1,1,1,3,3
-290,fcd,M,Less than 1,L,T,Lx,HS,type 2,45 to 49,50 to 54,1,1,NA,NA,NA
-291,fcd,F,3 to 4,L,F,Lx,FCD,type IIA,20 to 24,25 to 29,1,1,1,1,1
-292,fcd,M,11 to 14,R,T,Lx,HS,NA,15 to 20,20 to 24,1,1,1,1,1
-293,fcd,M,5 to 7,L,T,Lx,HS,NA,50 to 54,50 to 54,4,4,4,4,4
-294,fcd,M,20 to 24,L,T,Lx,HS,HS(EFS),35 to 39,35 to 39,NA,NA,NA,NA,NA
-296,fcd,M,11 to 14,R,T,Lx,HS,NA,25 to 29,30 to 34,4,4,4,5,5
-297,fcd,F,11 to 14,L,T,Lx,HS,type 2,40 to 44,55 to 59,4,4,4,4,NA
-298,fcd,F,8 to 10,L,T,Lx,OTHER,Gliosis,50 to 54,50 to 54,2,2,3,1,1
-299,fcd,M,30 to 34,R,T,Lesx,CAV,NA,30 to 34,35 to 39,1,1,1,1,NA
-300,fcd,M,11 to 14,R,T,Lx,HS,NA,35 to 39,40 to 44,1,1,NA,NA,NA
-301,fcd,F,Less than 1,R,T,Lx,HS,NA,30 to 34,30 to 34,1,1,1,1,1
-302,fcd,M,30 to 34,L,T,Lx,HS,type 1,35 to 39,40 to 44,NA,NA,NA,NA,NA
-304,fcd,F,5 to 7,L,F,Lesx,FCD,type IIB,25 to 29,25 to 29,2,1,NA,NA,NA
-305,fcd,F,15 to 19,R,T,Lx,HS,NA,30 to 34,35 to 39,1,1,NA,NA,NA
-306,fcd,F,25 to 29,L,T,Lx,OTHER,gliosis-mild; microgliosis in wm,45 to 49,45 to 49,2,2,1,1,NA
-308,fcd,F,15 to 19,R,T,Lesx,DNT,Glioneuronal HAM,20 to 24,20 to 24,1,1,1,NA,NA
-309,fcd,M,30 to 34,R,T,Lx,CAV,NA,45 to 49,45 to 49,1,1,1,1,1
-310,fcd,M,Less than 1,L,T,Lx,HS,type 1,35 to 39,35 to 39,4,NA,NA,NA,NA
-311,fcd,F,5 to 7,R,T,Lx,DUAL,DNT (GG; GR 1); HS (HS(EFS)),20 to 24,25 to 29,2,2,2,2,2
-312,fcd,M,Over 40,L,T,Lesx,DNT,GNT; WHO GR I (checking of Lesx),55 to 59,60 to 64,3,4,5,4,NA
-313,fcd,F,11 to 14,R,P,Lx,FCD,type IIA,35 to 39,40 to 44,1,1,NA,NA,NA
-315,fcd,F,3 to 4,L,T,Lx,OTHER,Gliosis,40 to 44,40 to 44,1,1,1,1,1
-316,fcd,M,1 to 2,L,T,Lx,HS,NA,40 to 44,45 to 49,1,1,1,1,1
-317,fcd,F,5 to 7,R,T,Lx,HS,NA,40 to 44,40 to 44,3,3,4,4,4
-319,fcd,M,25 to 29,L,T,Lesx,CAV,NA,30 to 34,30 to 34,4,1,NA,NA,NA
-320,fcd,F,8 to 10,L,T,Lx,HS,NA,30 to 34,30 to 34,2,3,3,2,3
-321,fcd,M,20 to 24,L,T,Lesx,CAV,NA,20 to 24,35 to 39,1,1,NA,NA,NA
-322,fcd,M,5 to 7,R,F,Lx,OTHER,Gliosis,40 to 44,45 to 49,1,1,1,1,3
-323,fcd,M,20 to 24,L,T,Lx,CAV,NA,30 to 34,30 to 34,5,5,5,5,5
-324,fcd,M,35 to 39,R,T,Lx,HS,NA,50 to 54,50 to 54,1,3,3,1,1
-325,fcd,F,25 to 29,R,T,Lx,HS,type 1,30 to 34,35 to 39,3,1,NA,NA,NA
-327,fcd,F,8 to 10,R,T,Lx,HS,HS(EFS),25 to 29,25 to 29,2,1,4,4,4
-328,fcd,M,Over 40,L,T,Lx,DNT,GNT; part of,50 to 54,50 to 54,4,4,4,4,4
-329,fcd,M,5 to 7,L,T,Lx,HS,type 1 (?and underlying MCD),55 to 59,60 to 64,1,1,1,1,NA
-330,fcd,F,25 to 29,R,T,Lx,HS,NA,40 to 44,40 to 44,1,4,NA,NA,NA
-332,fcd,F,15 to 19,R,T,Lx,HS,NA,25 to 29,30 to 34,1,1,1,1,1
-333,fcd,M,20 to 24,R,T,Lx,DNT,GNT; low grade,50 to 54,50 to 54,1,1,1,1,1
-334,fcd,M,25 to 29,R,T,Lx,HS,type 1,40 to 44,40 to 44,3,2,NA,NA,NA
-335,fcd,M,8 to 10,L,F,Lesx,DNT,WHO GR 1,25 to 29,25 to 29,1,1,1,NA,NA
-336,fcd,M,20 to 24,L,T,Lx,HS,NA,35 to 39,35 to 39,1,1,1,1,1
-337,fcd,F,5 to 7,L,T,Lx,HS,NA,45 to 49,45 to 49,1,1,2,2,2
-338,fcd,M,5 to 7,R,F,Lx,FCD,type IIB,15 to 20,20 to 24,3,3,NA,NA,NA
-339,fcd,M,11 to 14,R,F,Lx,OTHER,cortical gliosis but no dysplasia or specific pathology,30 to 34,30 to 34,3,1,1,1,1
-343,fcd,F,15 to 19,R,T,Lx,HS,NA,25 to 29,25 to 29,1,1,NA,NA,NA
-345,fcd,F,8 to 10,R,F,Lx,FCD,type IIB,25 to 29,30 to 34,2,3,3,3,NA
-346,fcd,M,20 to 24,R,T,Lx,HS,type 1,25 to 29,30 to 34,3,1,NA,NA,NA
-347,fcd,F,15 to 19,L,T,Lx,HS,type 1,50 to 54,50 to 54,1,1,1,1,1
-348,fcd,M,5 to 7,L,T,Lx,HS,type 1,25 to 29,30 to 34,1,1,1,NA,NA
-349,fcd,M,8 to 10,L,T,Lx,HS,HS(EFS),25 to 29,25 to 29,4,4,4,4,3
-350,fcd,F,8 to 10,R,T,Lx,OTHER,EFG,40 to 44,40 to 44,1,1,1,1,NA
-351,fcd,M,15 to 19,L,T,Lx,HS,NA,20 to 24,25 to 29,3,4,3,2,2
-352,fcd,M,8 to 10,R,T,Lx,HS,type 2,55 to 59,55 to 59,3,1,2,NA,NA
-354,fcd,F,1 to 2,L,T,Lx,HS,type 2,25 to 29,30 to 34,2,2,2,NA,NA
-355,fcd,F,15 to 19,L,T,Lesx,CAV,NA,20 to 24,20 to 24,1,1,1,1,1
-356,fcd,F,1 to 2,R,T,Lx,HS,NA,35 to 39,35 to 39,3,1,1,1,1
-357,fcd,M,5 to 7,L,,Hx,OTHER,Gliosis,25 to 29,25 to 29,1,1,1,1,1
-358,fcd,M,11 to 14,L,T,Lx,HS,type 1,55 to 59,55 to 59,1,1,3,1,1
-360,fcd,M,15 to 19,R,T,Lx,OTHER,EFG,30 to 34,30 to 34,1,1,1,1,1
-361,fcd,F,11 to 14,L,T,Lx,HS,NA,40 to 44,40 to 44,3,2,2,2,2
-362,fcd,F,3 to 4,R,T,Lx,HS,NA,45 to 49,45 to 49,2,4,4,4,4
-363,fcd,M,11 to 14,R,T,Lx,DNT,GG; GR 1,35 to 39,35 to 39,4,4,4,4,4
-364,fcd,F,15 to 19,L,T,Lx,HS,type 1,50 to 54,55 to 59,1,NA,NA,NA,NA
-365,fcd,F,5 to 7,R,T,Lx,HS,type 1/2,45 to 49,45 to 49,4,3,3,3,4
-366,fcd,M,1 to 2,L,T,Lx,HS,NA,30 to 34,30 to 34,1,4,4,3,3
-367,fcd,F,20 to 24,L,T,Lx,CAV,NA,25 to 29,25 to 29,2,4,2,2,2
-369,fcd,F,15 to 19,R,T,Lesx,DNT,GNT GR 1,35 to 39,35 to 39,1,NA,NA,NA,NA
-371,fcd,F,5 to 7,R,F,Lx,DNT,WHO GR 1,25 to 29,40 to 44,1,1,NA,NA,NA
-372,fcd,M,15 to 19,L,T,Lx,HS,NA,50 to 54,50 to 54,1,1,1,1,1
-373,fcd,M,11 to 14,L,F,Lx,OTHER,NAD,25 to 29,30 to 34,4,4,4,4,4
-374,fcd,M,15 to 19,R,T,Lx,HS,type 2,25 to 29,25 to 29,1,1,4,NA,NA
-375,fcd,F,15 to 19,L,T,Lx,HS,NA,25 to 29,25 to 29,1,1,NA,NA,NA
-376,fcd,F,8 to 10,R,T,Lx,HS,NA,30 to 34,30 to 34,1,1,1,1,1
-377,fcd,F,5 to 7,R,T,Lx,HS,NA,30 to 34,30 to 34,1,1,1,1,1
-378,fcd,M,1 to 2,L,T,Lx,DUAL,HS; DNT,15 to 20,15 to 20,3,1,1,1,1
-379,fcd,F,15 to 19,L,T,Lx,HS,NA,50 to 54,50 to 54,3,3,3,3,3
-380,fcd,M,35 to 39,R,T,Lx,HS,type 1,50 to 54,50 to 54,5,5,5,5,5
-382,fcd,M,5 to 7,R,T,Lx,HS,NA,30 to 34,30 to 34,1,3,1,1,1
-383,fcd,M,5 to 7,R,F,Lx,FCD,type II,20 to 24,20 to 24,1,1,NA,NA,NA
-384,fcd,M,5 to 7,L,F,Lx,FCD,type IIB,40 to 44,45 to 49,4,1,1,1,1
-385,fcd,F,11 to 14,R,T,Lx,HS,NA,55 to 59,55 to 59,1,1,1,1,1
-387,fcd,F,8 to 10,L,T,Lx,HS,type 1,30 to 34,30 to 34,1,1,1,NA,NA
-388,fcd,F,5 to 7,L,T,Lx,HS,NA,25 to 29,25 to 29,3,1,3,1,3
-389,fcd,M,25 to 29,L,T,Lx,HS,type 1,30 to 34,30 to 34,1,1,1,1,1
-390,fcd,M,15 to 19,L,T,Lx,HS,NA,20 to 24,20 to 24,1,1,1,4,3
-391,fcd,M,15 to 19,R,F,Lx,OTHER,cortical scar-chronic; compatible with previous intracranial haemorrhage,40 to 44,40 to 44,3,3,NA,NA,NA
-392,fcd,M,30 to 34,L,T,Lx,DUAL,DNT; GR 1; HS (HS(EFS)),50 to 54,55 to 59,1,NA,NA,NA,NA
-393,fcd,F,15 to 19,L,F,Lesx,GL,AC; GR 2,15 to 20,15 to 20,1,1,1,1,1
-394,fcd,F,3 to 4,R,T,Lx,HS,NA,20 to 24,20 to 24,2,3,3,2,2
-395,fcd,F,25 to 29,R,T,Lesx,OTHER,MVNT (WHO GR I),25 to 29,30 to 34,1,NA,NA,NA,NA
-396,fcd,F,5 to 7,R,T,Lx,OTHER,Gliosis,20 to 24,25 to 29,1,NA,NA,NA,NA
-397,fcd,F,3 to 4,L,T,Lx,HS,NA,45 to 49,45 to 49,1,1,1,1,1
-399,fcd,F,25 to 29,R,T,Lx,HS,type 1 (nb: cavitation & some inflammatory changes in CA4. In absence of IC; remote possibility of autoimmune aetiology/limbic encephalitis should be considered),35 to 39,35 to 39,1,3,3,3,NA
-400,fcd,F,20 to 24,R,T,Lx,HS,HS(EFS),40 to 44,40 to 44,2,1,1,4,NA
-401,fcd,M,11 to 14,L,T,Lx,HS,NA,40 to 44,45 to 49,1,1,1,1,1
-402,fcd,F,11 to 14,R,T,Lx,HS,NA,20 to 24,25 to 29,3,3,1,1,1
-403,fcd,F,15 to 19,R,T,Lx,DNT,GR 1,20 to 24,20 to 24,1,1,1,1,1
-404,fcd,M,20 to 24,R,T,Lx,HS,HS(EFS),30 to 34,35 to 39,2,1,1,1,1
-405,fcd,M,15 to 19,R,T,Lx,HS,NA,20 to 24,20 to 24,1,2,5,4,4
-406,fcd,F,20 to 24,R,T,Lx,HS,HS (cortical atrophy with mild chronic encephalitis),30 to 34,30 to 34,4,5,NA,NA,NA
-407,fcd,F,11 to 14,L,T,Lx,HS,NA,15 to 20,20 to 24,1,1,1,1,NA
-408,fcd,F,3 to 4,L,T,Lx,HS,type 3 (mild),35 to 39,40 to 44,2,2,NA,NA,NA
-409,fcd,M,15 to 19,L,T,Lx,OTHER,NAD (no evidence of HS but incomplete specimen. Mild mossy fibre sprouting. No evidence of FCD),15 to 20,20 to 24,4,4,4,NA,NA
-410,fcd,M,5 to 7,R,T,Lx,DNT,GNT; WHO GR I,50 to 54,55 to 59,1,1,NA,NA,NA
-411,fcd,F,11 to 14,L,F,Lx,FCD,type IIB,45 to 49,45 to 49,2,NA,NA,NA,NA
-412,fcd,F,Over 40,L,T,Lesx,CAV,NA,50 to 54,50 to 54,1,1,1,1,1
-413,fcd,F,5 to 7,R,T,Lx,HS,NA,45 to 49,45 to 49,1,1,1,NA,NA
-414,fcd,M,15 to 19,L,T,Lx,DNT,low grade,20 to 24,25 to 29,1,1,1,1,1
-415,fcd,M,15 to 19,L,T,Lx,OTHER,Gliosis,30 to 34,35 to 39,4,4,4,4,4
-416,fcd,M,15 to 19,L,T,Lx,HS,HS(EFS),45 to 49,50 to 54,4,4,5,5,4
-417,fcd,F,15 to 19,R,T,Lx,HS,type 1,50 to 54,55 to 59,NA,NA,NA,NA,NA
-418,fcd,F,8 to 10,L,T,Lx,HS,NA,40 to 44,45 to 49,3,4,3,4,4
-419,fcd,M,1 to 2,R,T,Lx,HS,NA,30 to 34,30 to 34,1,1,4,4,4
-420,fcd,M,1 to 2,L,T,Lx,HS,NA,40 to 44,40 to 44,1,1,1,1,1
-421,fcd,F,8 to 10,L,T,Lx,HS,NA,20 to 24,20 to 24,1,2,2,2,1
-422,fcd,M,25 to 29,L,T,Lx,OTHER,No HS in specimen,40 to 44,40 to 44,NA,NA,NA,NA,NA
-423,fcd,M,20 to 24,L,T,Lx,HS,NA,25 to 29,25 to 29,1,4,4,5,5
-424,fcd,M,15 to 19,L,T,Lesx,DNT,GG; GR 1,30 to 34,30 to 34,1,3,3,3,1
-425,fcd,M,Less than 1,L,T,Lx,HS,type 1; (& FCD IIIA),30 to 34,35 to 39,1,1,1,1,1
-426,fcd,M,3 to 4,L,T,Lx,HS,NA,45 to 49,45 to 49,1,1,1,1,1
-427,fcd,F,8 to 10,R,T,Lx,HS,NA,40 to 44,40 to 44,3,4,2,1,1
-429,fcd,M,11 to 14,R,F,Lx,OTHER,NAD (path negative),25 to 29,30 to 34,2,NA,NA,NA,NA
-430,fcd,M,5 to 7,L,T,Lx,HS,NA,35 to 39,40 to 44,1,1,1,4,1
-431,fcd,M,11 to 14,L,T,Lx,DUAL,GNT (WHO GR I); FCD (type IIIB),35 to 39,35 to 39,1,1,1,NA,NA
-432,fcd,M,8 to 10,R,T,Lx,HS,NA,25 to 29,25 to 29,1,1,1,1,1
-433,fcd,F,5 to 7,L,T,Lx,HS,& amyloid plaques & tangles,60 to 64,60 to 64,1,1,1,1,1
-434,fcd,M,30 to 34,L,T,Lx,DUAL,low gr tumour & HS,35 to 39,35 to 39,NA,NA,NA,NA,NA
-435,fcd,M,5 to 7,R,F,Lx,FCD,type IIA & inclusion bodies,20 to 24,25 to 29,4,4,4,1,1
-436,fcd,M,11 to 14,L,T,Lx,OTHER,NAD,25 to 29,35 to 39,1,1,1,1,1
-438,fcd,M,3 to 4,R,T,Lx,OTHER,HG (mild & patchy hippocampal neuronal loss. Small cortical scars & chronic inflammatory cell clusters),40 to 44,40 to 44,4,1,NA,NA,NA
-439,fcd,M,11 to 14,L,T,Lx,OTHER,Gliosis,30 to 34,35 to 39,NA,NA,NA,NA,NA
-440,fcd,F,30 to 34,R,T&P,Lx,DNT,GR 1,50 to 54,50 to 54,4,5,3,5,NA
-441,fcd,F,5 to 7,L,T,Lx,HS,NA,30 to 34,30 to 34,1,NA,NA,NA,NA
-442,fcd,F,11 to 14,R,T,Lx,HS,NA,40 to 44,45 to 49,5,5,5,NA,NA
-443,fcd,M,15 to 19,R,T,Lx,DNT,GG WHO GR 1,20 to 24,25 to 29,1,1,NA,NA,NA
-444,fcd,F,8 to 10,L,T,Lx,HS,NA,25 to 29,25 to 29,1,1,1,1,1
-445,fcd,F,30 to 34,L,T,Lx,HS,NA,35 to 39,35 to 39,2,2,2,2,1
-446,fcd,F,11 to 14,L,T,Lx,HS,NA,45 to 49,45 to 49,5,5,5,5,5
-447,fcd,F,20 to 24,R,T,Lx,HS,type 1,65 to 70,65 to 70,1,1,3,1,NA
-448,fcd,F,20 to 24,L,T,Lesx,CAV,NA,35 to 39,35 to 39,1,1,1,1,1
-449,fcd,F,Over 40,R,T,Lx,DNT,NA,65 to 70,65 to 70,4,4,4,4,4
-450,fcd,M,3 to 4,L,T,Lx,HS,type 1,25 to 29,25 to 29,3,3,NA,NA,NA
-451,fcd,F,8 to 10,R,T,Lx,HS,NA,40 to 44,40 to 44,1,1,1,1,1
-452,fcd,F,3 to 4,L,T,Lx,HS,NA,35 to 39,35 to 39,1,1,NA,NA,NA
-453,fcd,M,20 to 24,L,T,Lx,OTHER,Gliosis & query MCD type II,35 to 39,35 to 39,4,4,NA,NA,NA
-454,fcd,M,Less than 1,L,T,Lx,HS,NA,35 to 39,35 to 39,1,4,4,1,4
-455,fcd,F,5 to 7,R,T,Lx,HS,NA,40 to 44,40 to 44,1,1,4,1,2
-459,fcd,M,11 to 14,L,O&P,Lx,FCD,type IIID,15 to 20,20 to 24,3,NA,NA,NA,NA
-460,fcd,M,Over 40,L,T,Lx,HS,NA,45 to 49,50 to 54,1,1,1,1,1
-461,fcd,M,5 to 7,L,T,Lx,HS,NA,40 to 44,40 to 44,3,1,3,3,1
-462,fcd,F,15 to 19,L,T,Lesx,CAV,NA,15 to 20,15 to 20,1,1,1,1,2
-463,fcd,F,11 to 14,R,T,Lesx,DNT,GR 1,25 to 29,25 to 29,1,1,1,3,1
-4001,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4002,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,45 to 49,NaN,NaN,NaN,NaN,NaN,NaN
-4003,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,30 to 34,NaN,NaN,NaN,NaN,NaN,NaN
-4004,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4005,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4006,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,25 to 29,NaN,NaN,NaN,NaN,NaN,NaN
-4007,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4008,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,45 to 49,NaN,NaN,NaN,NaN,NaN,NaN
-4009,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4011,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,30 to 34,NaN,NaN,NaN,NaN,NaN,NaN
-4012,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4013,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,Less than 20,NaN,NaN,NaN,NaN,NaN,NaN
-4015,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,45 to 49,NaN,NaN,NaN,NaN,NaN,NaN
-4016,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4018,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4019,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,45 to 49,NaN,NaN,NaN,NaN,NaN,NaN
-4020,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4021,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,30 to 34,NaN,NaN,NaN,NaN,NaN,NaN
-4023,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4024,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,30 to 34,NaN,NaN,NaN,NaN,NaN,NaN
-4025,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4026,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4027,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,30 to 34,NaN,NaN,NaN,NaN,NaN,NaN
-4028,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4029,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4030,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4031,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4034,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4035,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4037,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,30 to 34,NaN,NaN,NaN,NaN,NaN,NaN
-4038,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4039,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,25 to 29,NaN,NaN,NaN,NaN,NaN,NaN
-4040,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4041,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4042,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4043,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,45 to 49,NaN,NaN,NaN,NaN,NaN,NaN
-4045,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4046,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4047,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4048,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4049,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4051,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4052,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4053,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4054,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,Less than 20,NaN,NaN,NaN,NaN,NaN,NaN
-4055,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4057,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4058,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4059,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4061,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4062,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4063,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4064,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4065,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4066,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,20 to 24,NaN,NaN,NaN,NaN,NaN,NaN
-4067,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4068,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,45 to 49,NaN,NaN,NaN,NaN,NaN,NaN
-4069,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4070,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4073,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4074,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,25 to 29,NaN,NaN,NaN,NaN,NaN,NaN
-4077,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4078,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,25 to 29,NaN,NaN,NaN,NaN,NaN,NaN
-4079,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,45 to 49,NaN,NaN,NaN,NaN,NaN,NaN
-4080,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4081,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,25 to 29,NaN,NaN,NaN,NaN,NaN,NaN
-4082,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4083,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4084,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4085,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4087,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4088,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4089,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,Over 55,NaN,NaN,NaN,NaN,NaN,NaN
-4090,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,50 to 54,NaN,NaN,NaN,NaN,NaN,NaN
-4091,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,30 to 34,NaN,NaN,NaN,NaN,NaN,NaN
-4092,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,Less than 20,NaN,NaN,NaN,NaN,NaN,NaN
-4093,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,40 to 44,NaN,NaN,NaN,NaN,NaN,NaN
-4095,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,30 to 34,NaN,NaN,NaN,NaN,NaN,NaN
-4096,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,30 to 34,NaN,NaN,NaN,NaN,NaN,NaN
-4097,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
-4098,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,25 to 29,NaN,NaN,NaN,NaN,NaN,NaN
-4099,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,25 to 29,NaN,NaN,NaN,NaN,NaN,NaN
-4100,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,35 to 39,NaN,NaN,NaN,NaN,NaN,NaN
+1,fcd,M,2,R,T,Lx,OTHER,oligodendroglial hyperplasia,22,22,4,4,4,4,NA
+2,fcd,F,17,R,T,Lx,HS,type 1,37,37,1,1,1,1,NA
+3,fcd,M,17,L,T,Lesx,DNT,NA,27,27,1,1,1,1,1
+4,fcd,M,12,R,T,Lx,OTHER,EFG,42,47,4,4,2,2,2
+5,fcd,F,6,L,T,Lx,HS,type 1; (& FCD type IIIA),47,47,2,1,NA,NA,NA
+6,fcd,F,22,R,P,Lesx,CAV,NA,22,27,3,3,1,NA,NA
+7,fcd,F,6,R,T,Lx,HS,type 1,27,27,1,1,NA,NA,NA
+8,fcd,F,4,R,P,Lesx,DNT,GR 1,42,42,1,1,1,1,1
+10,fcd,M,22,L,T,Lesx,DNT,GR 1,22,27,4,4,4,4,4
+11,fcd,F,6,R,T,Lx,HS,type 1 or 3 - cannot specify subtype due to specimen,22,27,1,1,NA,NA,NA
+13,fcd,M,12,R,T,Lesx,DNT,GG GR1,27,27,NA,NA,NA,NA,NA
+14,fcd,F,6,R,T,Lx,OTHER,NAD,22,22,4,1,NA,NA,NA
+16,fcd,M,42,R,T,Lx,HS,type 1,57,62,1,1,4,4,NA
+17,fcd,F,22,L,P,Lesx,GL,Astrocytotic HAM; low grade,32,32,4,1,1,1,NA
+18,fcd,F,12,L,F,Lx,CAV,NA,37,37,1,NA,NA,NA,NA
+19,fcd,M,4,L,T,Lx,DNT,NA,27,32,1,4,4,1,NA
+21,fcd,M,27,R,T,Lx,CAV,NA,27,32,1,1,1,1,NA
+22,fcd,F,2,L,T,Lx,DNT,GNT (GG); GR 1 ,32,42,1,3,1,1,3
+23,fcd,M,37,L,T,Lx,HS,type 1; (& FCD type IIIA),37,42,4,4,NA,NA,NA
+24,fcd,F,42,R,T,Lx,OTHER,NAD,47,52,4,5,5,5,5
+25,fcd,F,4,L,T,Lx,HS,HS(EFS),17,17,1,1,1,1,1
+26,fcd,F,1,L,T,Lx,DUAL,HS; FCD (type IIIB); DNT (GG; GR 1),27,27,1,1,1,1,1
+27,fcd,F,9,L,T,Lx,HS,NA,42,42,1,2,2,1,1
+28,fcd,M,17,R,T,Lx,OTHER,MCD; type IIA,22,22,5,4,4,4,NA
+29,fcd,F,1,L,T,Lx,HS,NA,32,37,4,3,3,3,1
+30,fcd,F,27,L,F,Lx,FCD,type IIB,57,62,2,2,2,NA,NA
+31,fcd,F,12,R,T,Lx,HS,NA,52,52,3,4,4,NA,NA
+32,fcd,F,6,R,T,Lx,OTHER,NAD,32,32,3,1,1,1,1
+33,fcd,M,9,L,T,Lx,HS,NA,37,37,1,1,1,3,5
+34,fcd,F,1,L,F,Lx,FCD,type IIB,22,22,1,1,1,1,1
+35,fcd,F,27,L,T,Lesx,CAV,NA,32,32,1,1,1,NA,NA
+36,fcd,M,22,L,T,Lx,OTHER,EFG,32,37,1,1,4,3,3
+37,fcd,F,9,L,T,Lx,HS,NA,32,37,1,1,2,2,2
+38,fcd,M,6,R,T,Lx,HS,type 1,32,37,5,5,5,NA,NA
+39,fcd,F,22,L,T,Lx,HS,type 1,57,57,1,NA,NA,NA,NA
+40,fcd,F,12,R,T,Lx,HS,NA,42,42,4,3,4,3,1
+41,fcd,M,6,R,T,Lx,HS,NA,17,17,1,1,1,1,1
+42,fcd,M,12,R,T,Lx,OTHER,negative ,22,27,3,4,4,4,4
+43,fcd,F,6,L,T,Lx,HS,NA,47,47,1,1,1,1,1
+44,fcd,F,27,R,T,Lx,TREBLE,OTHER (encephalocele); OTHER (MCD; mild); OTHER (SCAR),37,37,1,2,4,NA,NA
+45,fcd,F,17,R,T,Lx,HS,(& FCD type IIIA),37,37,1,1,1,1,1
+46,fcd,F,22,L,T,Lx,HS,NA,32,32,2,2,3,4,4
+47,fcd,M,17,L,T,Lx,DNT,NA,60,60,1,3,3,1,1
+48,fcd,M,12,L,T,Lx,DUAL,HS; GL,47,52,1,2,2,3,NA
+49,fcd,F,17,R,T,Lx,HS,HS(EFS); ,47,47,4,4,4,NA,NA
+50,fcd,F,9,R,O,Lx,OTHER,leptomeningeal angiomatosis / cortical calcification (SWS),52,57,4,4,5,5,NA
+54,fcd,M,32,L,T,Lx,OTHER,non-specific neurone loss,52,57,1,1,1,1,1
+55,fcd,M,2,L,T,Lx,HS,NA,37,37,1,1,1,1,1
+56,fcd,F,6,L,T,Lx,HS,type 1,32,37,1,NA,NA,NA,NA
+57,fcd,M,4,R,T,Lx,HS,NA,42,42,1,1,1,1,1
+58,fcd,M,6,L,P,Lx,CAV,NA,32,37,4,4,4,4,4
+59,fcd,F,37,R,T,Lx,CAV,NA,42,42,1,5,5,5,5
+60,fcd,M,42,L,T,Lx,DUAL,CAV; mild HS (type 3),62,62,1,1,NA,NA,NA
+61,fcd,M,37,R,T,Lx,HS,type 1,47,52,1,1,1,NA,NA
+63,fcd,M,6,L,T,Lx,OTHER,Gliosis,27,27,1,1,1,1,1
+64,fcd,M,9,R,T,Lx,HS,NA,32,32,1,1,1,1,1
+65,fcd,F,17,R,T,Lesx,CAV,NA,52,52,1,1,1,1,1
+66,fcd,M,17,R,T,Lx,OTHER,NAD (no HS detected),27,32,4,4,4,4,4
+67,fcd,F,17,L,T,Lx,HS,type 1,42,47,1,1,1,1,3
+68,fcd,F,22,L,T,Lx,HS,NA,42,42,4,4,4,4,1
+69,fcd,F,12,R,T,Lx,DNT,NA,17,17,1,1,1,1,1
+70,fcd,M,9,R,T,Lx,HS,type 1; (also WM damage in middle T gyrus),47,52,1,1,1,NA,NA
+71,fcd,M,12,L,T,Lx,HS,NA,57,57,1,1,1,1,1
+72,fcd,F,32,L,F,Lx,DNT,NA,47,52,5,4,4,5,5
+74,fcd,M,12,L,T,Lx,HS,NA,17,22,1,1,1,1,1
+76,fcd,F,4,R,T,Lx,HS,type 1,27,32,2,1,1,1,1
+77,fcd,F,1,L,T,Lx,HS,NA,22,22,4,4,4,4,4
+78,fcd,F,22,L,T,Lx,HS,NA,62,62,1,1,1,1,1
+79,fcd,F,9,L,F,Lx,OTHER,Gliosis,22,22,2,3,3,4,NA
+81,fcd,M,12,L,F,Lx,GL,AC; low grade,32,32,2,1,1,1,NA
+82,fcd,F,9,R,T,Lx,HS,NA,22,22,1,1,1,1,1
+83,fcd,M,6,R,F,Lesx,FCD,type IIB,32,32,3,4,4,NA,NA
+84,fcd,F,1,R,T,Lx,HS,NA,22,22,1,1,1,NA,NA
+85,fcd,F,37,L,T,Lx,HS,NA,42,47,2,3,2,3,4
+86,fcd,M,9,R,F,Lx,FCD,type IIB,22,27,1,NA,NA,NA,NA
+87,fcd,F,22,L,T,Lx,HS,NA,52,52,1,1,1,1,1
+88,fcd,M,37,L,T,Lesx,CAV,NA,47,47,4,NA,NA,NA,NA
+89,fcd,M,6,L,T,Lx,DUAL,HS (type 1); OTHER (cortical scar in superior T gyrus),32,32,1,1,1,1,1
+90,fcd,M,17,L,T,Lx,HS,NA,42,42,1,1,1,NA,NA
+91,fcd,F,22,R,T,Lesx,CAV,NA,27,27,1,1,3,1,1
+92,fcd,M,12,L,T,Lx,HS,type 1,37,37,4,4,NA,NA,NA
+93,fcd,F,4,L,T,Lx,HS,type 1,47,52,1,1,NA,NA,NA
+94,fcd,F,12,R,T,Lx,HS,NA,47,47,1,1,3,1,1
+95,fcd,F,9,R,T,Lx,HS,NA,32,32,1,2,2,1,NA
+96,fcd,F,42,L,T,Lx,DUAL,CAV; HS (HS(EFS); type 3),60,60,1,1,1,1,NA
+97,fcd,M,1,R,T,Lx,HS,type 1,42,47,2,3,NA,NA,NA
+98,fcd,M,6,R,F,Lx,OTHER,MCD (subtle). Scattered hypertrophic; lipofuscin rich neurones but no definite evidence of FCD,22,27,1,1,1,NA,NA
+100,fcd,M,6,R,P,Lesx,FCD,type IIB,27,27,3,3,1,1,1
+101,fcd,F,12,R,T,Lx,HS,NA,22,22,2,3,4,4,4
+102,fcd,F,22,R,P,Lesx,DNT,GR 1,32,32,3,NA,NA,NA,NA
+103,fcd,M,9,L,F,Lx,FCD,type IIA,27,32,NA,NA,NA,NA,NA
+104,fcd,M,12,R,F,Lx,OTHER,necrosis gliosis,17,17,5,5,5,5,5
+105,fcd,F,4,R,T,Lx,HS,NA,37,37,1,1,1,1,1
+106,fcd,F,1,L,T,Lx,HS,NA,22,27,2,2,2,3,2
+108,fcd,F,6,R,T,Lx,OTHER,Gliosis & encephalocele,32,32,NA,NA,NA,NA,NA
+109,fcd,M,2,L,T,Lx,HS,NA,42,47,1,1,1,1,1
+110,fcd,M,27,R,F,Lx,FCD,type IIB,37,42,1,1,1,1,1
+111,fcd,F,32,L,T,Lx,OTHER,Gliosis,37,42,5,5,4,4,4
+113,fcd,M,17,R,T,Lx,TREBLE,OTHER (HG); OTHER SMALL PERIVENTRICULAR HETEROTOPIA; OTHER (MILD MCD TYPE II),17,22,5,4,NA,NA,NA
+114,fcd,F,32,R,T,Lx,HS,NA,37,37,1,1,1,1,1
+116,fcd,M,12,L,P,Lesx,FCD,type IIB,27,27,1,1,1,NA,NA
+117,fcd,F,22,R,T&O,Lesx,DNT,GR 1,37,37,4,1,1,1,1
+118,fcd,M,9,L,T,Lx,HS,(& FCD type IIIA),37,42,2,1,1,1,NA
+119,fcd,M,12,R,T,Lx,DNT,GNT; low grade,17,22,1,1,1,1,NA
+120,fcd,M,17,L,T,Lx,HS,type 1,22,27,1,1,1,1,NA
+122,fcd,F,22,R,T,Lx,OTHER,meningioangiomatosis,57,62,1,1,1,1,NA
+123,fcd,M,42,R,O,Lesx,CAV,NA,57,62,1,2,2,NA,NA
+124,fcd,M,22,L,T,Lesx,OTHER,telangiectasia,27,32,2,1,1,3,3
+125,fcd,F,6,L,T,Lx,HS,type 1,32,37,2,1,NA,NA,NA
+126,fcd,F,12,R,T,Lx,HS,NA,47,47,1,1,1,NA,NA
+127,fcd,F,9,L,T,Lx,HS,(& FCD type IIIA),47,47,1,1,1,1,1
+128,fcd,F,6,R,P,Lx,FCD,type IIA,17,17,4,4,4,4,4
+129,fcd,F,37,L,F,Lx,CAV,(partial),42,42,1,1,1,NA,NA
+130,fcd,M,9,R,F,Lx,OTHER,Gliosis,37,37,1,1,1,1,2
+131,fcd,M,12,R,O,Lx,OTHER,NAD (MT-not FCD),22,27,1,1,1,4,3
+132,fcd,M,32,R,T,Lx,DUAL,CAV; HS (HS(EFS)),47,47,3,4,4,4,4
+133,fcd,M,32,L,T,Lx,DNT,GR 1,37,42,1,1,1,1,NA
+134,fcd,M,17,L,T,Lesx,DNT,GR 1,27,27,3,1,1,1,1
+135,fcd,F,17,R,T,Lx,HS,type 1,52,52,1,1,NA,NA,NA
+136,fcd,M,32,R,F,Lesx,CAV,NA,32,37,4,4,4,4,4
+137,fcd,M,12,L,F,Lx,OTHER,Gliosis,32,32,1,1,1,3,3
+138,fcd,M,2,L,O,Lx,FCD,type IIA,17,22,1,4,4,4,4
+141,fcd,M,17,L,T,Lesx,DNT,GNT GR 1,32,32,1,1,NA,NA,NA
+142,fcd,F,6,L,T,Lx,DUAL,HS; OTHER (cortical VAS abnormalities),32,37,2,2,2,2,3
+143,fcd,F,12,L,T,Lx,HS,HS(EFS),32,32,4,4,4,4,4
+144,fcd,F,12,R,T,Lx,HS,type 1,47,47,1,NA,NA,NA,NA
+145,fcd,F,17,L,T,Lesx,DUAL,DNT (GR 1); HS (type 3),47,52,3,3,4,4,4
+146,fcd,F,17,L,T,Lx,OTHER,NAD,22,22,5,5,4,5,5
+147,fcd,M,6,R,T,Lx,HS,NA,32,32,1,1,1,1,1
+149,fcd,F,9,L,T,Lx,HS,NA,27,27,3,4,4,4,2
+150,fcd,F,17,L,T,Lx,DUAL,HS; OTHER (TL scar),27,32,1,1,1,1,1
+151,fcd,F,27,R,F,Lesx,OTHER,cortical injury; cause unclear,32,37,3,4,4,NA,NA
+152,fcd,F,6,R,T,Lx,HS,NA,22,22,1,1,3,1,NA
+153,fcd,F,37,R,T,Lx,HS,type 2,42,47,3,3,3,3,NA
+154,fcd,M,17,L,T,Lx,HS,NA,32,32,1,1,1,1,1
+155,fcd,F,2,R,T,Lx,HS,NA,27,32,3,3,3,1,1
+156,fcd,M,27,L,T,Lx,HS,NA,32,32,1,2,2,5,5
+157,fcd,F,22,L,T,Lx,OTHER,Gliosis,32,32,4,4,4,5,5
+158,fcd,M,17,R,T,Lx,TBC,& also Lesx for epid cyst,22,27,NA,NA,NA,NA,NA
+159,fcd,M,22,R,O,Lx,OTHER,gray matter heterotopia,27,27,4,4,1,NA,NA
+160,fcd,M,32,R,T,Lx,DUAL,HS; OTHER (COLLAGEN NODULE),37,42,1,1,1,1,1
+161,fcd,F,17,R,T,Lx,HS,NA,32,32,3,2,2,2,2
+163,fcd,F,22,R,T,Lx,OTHER,Gliosis,27,27,1,1,1,1,NA
+164,fcd,F,9,L,T,Lx,HS,type 3,42,47,2,NA,NA,NA,NA
+165,fcd,F,9,L,T,Lx,HS,NA,22,22,2,3,3,4,4
+166,fcd,F,2,R,P,Lx,FCD,type IIB (TSs cannot be excluded on evaluation of single cortical lesion),32,32,1,1,1,2,1
+167,fcd,F,2,L,T,Lx,HS,NA,27,32,1,1,1,1,1
+168,fcd,M,32,L,T,Lx,HS,NA,42,47,1,2,3,3,1
+169,fcd,M,17,L,F,Lesx,DNT,MVNT (GR I),42,42,1,1,NA,NA,NA
+170,fcd,M,27,R,F,Lx,OTHER,GLIOSIS,47,52,3,3,4,5,5
+171,fcd,F,27,L,T,Lx,OTHER,Gliosis,37,42,NA,NA,NA,NA,NA
+172,fcd,F,6,L,F,Lx,FCD,type IIB,22,27,1,1,NA,NA,NA
+173,fcd,F,6,L,T,Lx,DNT,GG; GR 1,37,47,1,1,1,1,1
+174,fcd,M,22,L,T,Lx,HS,type 1,27,32,1,1,1,1,1
+175,fcd,F,17,R,T,Lx,HS,NA,42,42,3,3,4,4,4
+176,fcd,F,17,L,T,Lx,HS,NA,22,27,1,4,4,4,4
+177,fcd,F,22,R,F,Lx,CAV,NA,27,27,1,1,1,1,1
+178,fcd,M,12,L,F,Lx,FCD,type IIB,27,27,1,1,NA,NA,NA
+179,fcd,M,17,R,P,Lesx,CAV,NA,32,37,4,4,4,4,4
+180,fcd,M,22,R,T,Lesx,CAV,NA,32,32,1,1,1,1,1
+181,fcd,F,32,R,T,Lx,OTHER,Gliosis,37,37,3,3,2,1,1
+182,fcd,F,22,L,T,Lesx,DNT,GNT GR 1,27,27,1,1,1,NA,NA
+183,fcd,M,22,L,T,Lx,HS,NA,32,32,2,2,2,4,4
+184,fcd,F,6,R,T,Lx,DUAL,HS; OTHER (chronic inflammation),32,32,1,1,1,1,1
+185,fcd,F,22,L,T,Lx,DUAL,DNT (GNT); HS (type 1),27,27,2,2,2,1,NA
+186,fcd,F,27,L,T,Lx,HS,NA,27,27,1,1,1,1,1
+187,fcd,F,2,R,F,Lx,FCD,type IIB,27,32,1,1,1,1,1
+190,fcd,F,17,R,T,Lx,OTHER,EFG,42,42,3,4,4,NA,NA
+191,fcd,F,9,L,T,Lx,HS,NA,32,32,4,4,4,5,5
+192,fcd,M,17,R,T,Lesx,DNT,WHO GR 1,22,22,1,NA,NA,NA,NA
+194,fcd,F,22,R,T,Lx,OTHER,Gliosis,37,37,2,1,2,2,1
+195,fcd,F,32,R,F,Lesx,DNT,GR 1,52,57,1,1,1,NA,NA
+196,fcd,F,2,L,T,Lx,HS,type 1,37,37,4,4,4,NA,NA
+197,fcd,F,2,R,T,Lx,HS,NA,57,62,1,1,1,1,1
+198,fcd,M,22,L,T,Lx,CAV,NA,32,37,4,4,3,NA,NA
+199,fcd,F,32,L,T,Lx,HS,type 1 or 3,37,37,1,4,3,3,1
+201,fcd,M,17,R,T,Lx,HS,NA,52,52,1,3,3,NA,NA
+202,fcd,M,12,L,T,Lx,HS,type 1,37,37,3,3,4,1,1
+203,fcd,F,2,R,T,Lx,HS,NA,57,57,1,1,1,3,1
+204,fcd,F,6,L,F,Lx,FCD,type IIB,32,32,1,1,1,1,1
+206,fcd,F,22,R,T,Lx,CAV,NA,42,42,2,2,2,4,NA
+207,fcd,F,22,R,T,Lx,HS,NA,47,47,1,1,1,1,1
+208,fcd,F,2,L,T,Lx,HS,type 1,17,22,3,4,NA,NA,NA
+209,fcd,M,12,L,F,Lx,FCD,type IIB,22,27,1,1,1,1,NA
+209,fcd,M,12,L,F,Lx,FCD,type IIB,22,27,1,1,1,1,NA
+213,fcd,F,22,L,F,Lesx,DNT,GG; GR 1,37,37,1,1,1,1,1
+214,fcd,M,12,R,T,Lesx,FCD,type IIB,22,27,2,2,2,2,3
+215,fcd,F,4,L,T,Lx,HS,type 1,37,37,1,1,1,1,NA
+216,fcd,F,12,L,P,Lesx,FCD,type IIB,22,27,3,1,NA,NA,NA
+217,fcd,M,17,L,T,Lx,HS,type 1; (& FCD type IIIA),57,57,1,4,4,4,NA
+218,fcd,F,17,L,T,Lx,HS,NA,37,47,4,4,4,4,4
+219,fcd,M,9,R,T,Lx,HS,NA,47,52,1,1,1,1,1
+220,fcd,M,2,L,T,Lx,HS,type 1,42,47,1,1,1,NA,NA
+221,fcd,M,32,L,T,Lesx,DNT,GNT TYPE 1,32,32,2,NA,NA,NA,NA
+222,fcd,F,9,R,T,Lx,HS,NA,37,42,1,3,3,4,4
+223,fcd,M,6,R,F,Lx,FCD,type IIB,32,37,3,1,1,1,1
+224,fcd,F,27,L,T,Lx,OTHER,BD,37,42,1,2,3,3,NA
+225,fcd,M,17,R,T,Lx,DUAL,DNT (GNT); HS (partial),22,27,1,4,4,4,NA
+226,fcd,F,6,R,P,Lx,FCD,type IIB,17,22,NA,NA,NA,NA,NA
+227,fcd,F,4,L,T,Lx,HS,NA,42,42,1,3,3,3,3
+228,fcd,M,32,R,T,Lesx,CAV,NA,47,47,1,1,1,1,1
+229,fcd,F,6,L,T,Lx,HS,NA,47,47,1,1,1,NA,NA
+230,fcd,M,12,L,T&P,Lx,DNT,GR 1,27,27,1,1,1,NA,NA
+231,fcd,M,6,R,F,Lx,OTHER,NAD (no specific focal pathology identified; no FCD),22,27,3,3,3,NA,NA
+232,fcd,F,12,R,T,Lx,OTHER,No definite HS,37,47,5,NA,NA,NA,NA
+233,fcd,M,6,R,T,Lx,HS,NA,52,52,1,3,3,4,3
+234,fcd,F,17,L,T,Lesx,OTHER,AC; GR 2 (PXA),47,47,4,4,4,4,4
+235,fcd,M,27,L,T,Lx,HS,NA,52,52,4,1,1,3,3
+236,fcd,F,6,L,T,Lx,HS,NA,17,17,1,1,1,1,1
+237,fcd,F,27,R,T,Lx,HS,type 1,37,42,1,1,1,1,1
+240,fcd,M,9,L,T,Lx,HS,NA,27,37,1,1,1,NA,NA
+241,fcd,F,9,R,O&P,Lx,OTHER,TSL (in file-not on cdr),27,27,1,1,1,1,1
+243,fcd,F,22,L,T,Lx,DNT,GR 1,57,62,1,1,1,1,1
+245,fcd,F,4,L,T,Lesx,GL,GR 1,42,42,4,4,4,4,4
+246,fcd,M,9,R,T,Lx,HS,NA,37,37,5,5,5,5,5
+247,fcd,F,9,R,T,Lx,HS,NA,37,42,4,4,4,4,4
+248,fcd,M,12,R,P,Lesx,FCD,type IIB,27,32,3,1,1,1,3
+249,fcd,M,17,R,F,Lx,OTHER,NAD,27,32,4,4,4,5,4
+250,fcd,F,12,R,T,Lx,HS,NA,37,42,1,1,1,1,1
+251,fcd,F,9,L,T,Lx,HS,NA,52,52,2,2,4,3,1
+252,fcd,M,12,L,F,Lx,OTHER,NAD,17,17,2,2,2,2,2
+253,fcd,M,27,R,T,Lx,CAV,NA,27,32,1,1,NA,NA,NA
+254,fcd,F,1,R,O,Lesx,FCD,type IIA (MT-Feb18-unusual path; skip lesions that look FCD IIa & pachygria),17,22,4,4,5,4,4
+255,fcd,F,12,R,T,Lx,HS,NA,22,22,1,4,4,4,4
+256,fcd,M,6,L,T,Lx,DNT,NA,32,32,1,1,2,2,1
+257,fcd,F,22,R,T,Lesx,OTHER,PXA (WHO GR II),22,27,1,1,NA,NA,NA
+258,fcd,F,17,R,F,Lx,OTHER,MCD; type II,52,57,4,4,4,4,4
+259,fcd,M,42,L,T,Lx,HS,NA,47,47,1,1,1,1,1
+260,fcd,F,22,R,T,Lx,OTHER,Gliosis (had encephalocoele) (focal WM matter rarefaction and gliosis (see comments)),32,47,1,1,1,NA,NA
+262,fcd,F,22,L,T,Lx,DNT,GG; WHO GR I,27,32,2,2,4,4,NA
+263,fcd,F,17,L,T,Lx,HS,atypical,27,32,4,5,4,1,1
+264,fcd,F,4,L,T,Lx,HS,NA,47,52,3,1,1,1,1
+265,fcd,F,2,L,T,Lx,HS,type 2,17,17,1,1,1,1,1
+266,fcd,F,12,L,T,Lx,HS,NA,17,22,1,1,1,1,1
+267,fcd,M,12,L,T,Lx,HS,NA,22,22,1,1,1,1,3
+268,fcd,M,17,L,T,Lesx,DNT,HAM (& lewy bodies; unusual case),62,62,4,NA,NA,NA,NA
+270,fcd,F,2,L,T,Lx,HS,(& FCD type IIIA),17,17,1,2,3,1,4
+271,fcd,F,17,R,T,Lx,HS,type 1,32,32,3,1,3,3,1
+273,fcd,F,22,L,T,Lx,HS,type 1,22,22,1,1,NA,NA,NA
+275,fcd,M,2,L,T,Lx,HS,NA,17,17,2,1,1,1,1
+276,fcd,M,22,L,T,Lesx,OTHER,EPE,27,27,1,1,1,1,1
+277,fcd,M,22,L,T,Lx,DUAL,DNT (GR 1); HS (type 2),22,27,1,1,1,1,1
+278,fcd,F,22,L,P,Lesx,GL,AC; GR 1,27,32,1,1,1,1,1
+279,fcd,M,27,L,T,Lx,HS,NA,37,42,5,5,4,4,4
+280,fcd,F,9,R,F,Lx,FCD,type IIB,27,27,1,1,1,1,1
+282,fcd,M,12,L,T,Lx,HS,type 1,22,27,2,NA,NA,NA,NA
+283,fcd,F,12,R,F,Lx,OTHER,NAD (no evidence of FCD or other lesion),17,32,4,4,4,NA,NA
+285,fcd,F,6,R,T,Lx,FCD,type IIB,22,27,1,1,1,1,1
+286,fcd,F,17,R,F,Lesx,CAV,NA,27,27,1,1,2,2,NA
+287,fcd,M,12,R,T,Lx,DNT,GNT; GR 1,37,47,1,1,3,4,4
+288,fcd,F,37,L,T,Lx,DNT,GC,57,57,4,4,4,4,4
+289,fcd,F,17,R,T,Lx,OTHER,EFG,22,22,1,1,1,3,3
+290,fcd,M,1,L,T,Lx,HS,type 2,47,52,1,1,NA,NA,NA
+291,fcd,F,4,L,F,Lx,FCD,type IIA,22,27,1,1,1,1,1
+292,fcd,M,12,R,T,Lx,HS,NA,17,22,1,1,1,1,1
+293,fcd,M,6,L,T,Lx,HS,NA,52,52,4,4,4,4,4
+294,fcd,M,22,L,T,Lx,HS,HS(EFS),37,37,NA,NA,NA,NA,NA
+296,fcd,M,12,R,T,Lx,HS,NA,27,32,4,4,4,5,5
+297,fcd,F,12,L,T,Lx,HS,type 2,42,57,4,4,4,4,NA
+298,fcd,F,9,L,T,Lx,OTHER,Gliosis,52,52,2,2,3,1,1
+299,fcd,M,32,R,T,Lesx,CAV,NA,32,37,1,1,1,1,NA
+300,fcd,M,12,R,T,Lx,HS,NA,37,42,1,1,NA,NA,NA
+301,fcd,F,1,R,T,Lx,HS,NA,32,32,1,1,1,1,1
+302,fcd,M,32,L,T,Lx,HS,type 1,37,42,NA,NA,NA,NA,NA
+304,fcd,F,6,L,F,Lesx,FCD,type IIB,27,27,2,1,NA,NA,NA
+305,fcd,F,17,R,T,Lx,HS,NA,32,37,1,1,NA,NA,NA
+306,fcd,F,27,L,T,Lx,OTHER,gliosis-mild; microgliosis in wm,47,47,2,2,1,1,NA
+308,fcd,F,17,R,T,Lesx,DNT,Glioneuronal HAM,22,22,1,1,1,NA,NA
+309,fcd,M,32,R,T,Lx,CAV,NA,47,47,1,1,1,1,1
+310,fcd,M,1,L,T,Lx,HS,type 1,37,37,4,NA,NA,NA,NA
+311,fcd,F,6,R,T,Lx,DUAL,DNT (GG; GR 1); HS (HS(EFS)),22,27,2,2,2,2,2
+312,fcd,M,42,L,T,Lesx,DNT,GNT; WHO GR I (checking of Lesx),57,62,3,4,5,4,NA
+313,fcd,F,12,R,P,Lx,FCD,type IIA,37,42,1,1,NA,NA,NA
+315,fcd,F,4,L,T,Lx,OTHER,Gliosis,42,42,1,1,1,1,1
+316,fcd,M,2,L,T,Lx,HS,NA,42,47,1,1,1,1,1
+317,fcd,F,6,R,T,Lx,HS,NA,42,42,3,3,4,4,4
+319,fcd,M,27,L,T,Lesx,CAV,NA,32,32,4,1,NA,NA,NA
+320,fcd,F,9,L,T,Lx,HS,NA,32,32,2,3,3,2,3
+321,fcd,M,22,L,T,Lesx,CAV,NA,22,37,1,1,NA,NA,NA
+322,fcd,M,6,R,F,Lx,OTHER,Gliosis,42,47,1,1,1,1,3
+323,fcd,M,22,L,T,Lx,CAV,NA,32,32,5,5,5,5,5
+324,fcd,M,37,R,T,Lx,HS,NA,52,52,1,3,3,1,1
+325,fcd,F,27,R,T,Lx,HS,type 1,32,37,3,1,NA,NA,NA
+327,fcd,F,9,R,T,Lx,HS,HS(EFS),27,27,2,1,4,4,4
+328,fcd,M,42,L,T,Lx,DNT,GNT; part of,52,52,4,4,4,4,4
+329,fcd,M,6,L,T,Lx,HS,type 1 (?and underlying MCD),57,62,1,1,1,1,NA
+330,fcd,F,27,R,T,Lx,HS,NA,42,42,1,4,NA,NA,NA
+332,fcd,F,17,R,T,Lx,HS,NA,27,32,1,1,1,1,1
+333,fcd,M,22,R,T,Lx,DNT,GNT; low grade,52,52,1,1,1,1,1
+334,fcd,M,27,R,T,Lx,HS,type 1,42,42,3,2,NA,NA,NA
+335,fcd,M,9,L,F,Lesx,DNT,WHO GR 1,27,27,1,1,1,NA,NA
+336,fcd,M,22,L,T,Lx,HS,NA,37,37,1,1,1,1,1
+337,fcd,F,6,L,T,Lx,HS,NA,47,47,1,1,2,2,2
+338,fcd,M,6,R,F,Lx,FCD,type IIB,17,22,3,3,NA,NA,NA
+339,fcd,M,12,R,F,Lx,OTHER,cortical gliosis but no dysplasia or specific pathology,32,32,3,1,1,1,1
+343,fcd,F,17,R,T,Lx,HS,NA,27,27,1,1,NA,NA,NA
+345,fcd,F,9,R,F,Lx,FCD,type IIB,27,32,2,3,3,3,NA
+346,fcd,M,22,R,T,Lx,HS,type 1,27,32,3,1,NA,NA,NA
+347,fcd,F,17,L,T,Lx,HS,type 1,52,52,1,1,1,1,1
+348,fcd,M,6,L,T,Lx,HS,type 1,27,32,1,1,1,NA,NA
+349,fcd,M,9,L,T,Lx,HS,HS(EFS),27,27,4,4,4,4,3
+350,fcd,F,9,R,T,Lx,OTHER,EFG,42,42,1,1,1,1,NA
+351,fcd,M,17,L,T,Lx,HS,NA,22,27,3,4,3,2,2
+352,fcd,M,9,R,T,Lx,HS,type 2,57,57,3,1,2,NA,NA
+354,fcd,F,2,L,T,Lx,HS,type 2,27,32,2,2,2,NA,NA
+355,fcd,F,17,L,T,Lesx,CAV,NA,22,22,1,1,1,1,1
+356,fcd,F,2,R,T,Lx,HS,NA,37,37,3,1,1,1,1
+357,fcd,M,6,L,,Hx,OTHER,Gliosis,27,27,1,1,1,1,1
+358,fcd,M,12,L,T,Lx,HS,type 1,57,57,1,1,3,1,1
+360,fcd,M,17,R,T,Lx,OTHER,EFG,32,32,1,1,1,1,1
+361,fcd,F,12,L,T,Lx,HS,NA,42,42,3,2,2,2,2
+362,fcd,F,4,R,T,Lx,HS,NA,47,47,2,4,4,4,4
+363,fcd,M,12,R,T,Lx,DNT,GG; GR 1,37,37,4,4,4,4,4
+364,fcd,F,17,L,T,Lx,HS,type 1,52,57,1,NA,NA,NA,NA
+365,fcd,F,6,R,T,Lx,HS,type 1/2,47,47,4,3,3,3,4
+366,fcd,M,2,L,T,Lx,HS,NA,32,32,1,4,4,3,3
+367,fcd,F,22,L,T,Lx,CAV,NA,27,27,2,4,2,2,2
+369,fcd,F,17,R,T,Lesx,DNT,GNT GR 1,37,37,1,NA,NA,NA,NA
+371,fcd,F,6,R,F,Lx,DNT,WHO GR 1,27,42,1,1,NA,NA,NA
+372,fcd,M,17,L,T,Lx,HS,NA,52,52,1,1,1,1,1
+373,fcd,M,12,L,F,Lx,OTHER,NAD,27,32,4,4,4,4,4
+374,fcd,M,17,R,T,Lx,HS,type 2,27,27,1,1,4,NA,NA
+375,fcd,F,17,L,T,Lx,HS,NA,27,27,1,1,NA,NA,NA
+376,fcd,F,9,R,T,Lx,HS,NA,32,32,1,1,1,1,1
+377,fcd,F,6,R,T,Lx,HS,NA,32,32,1,1,1,1,1
+378,fcd,M,2,L,T,Lx,DUAL,HS; DNT,17,17,3,1,1,1,1
+379,fcd,F,17,L,T,Lx,HS,NA,52,52,3,3,3,3,3
+380,fcd,M,37,R,T,Lx,HS,type 1,52,52,5,5,5,5,5
+382,fcd,M,6,R,T,Lx,HS,NA,32,32,1,3,1,1,1
+383,fcd,M,6,R,F,Lx,FCD,type II,22,22,1,1,NA,NA,NA
+384,fcd,M,6,L,F,Lx,FCD,type IIB,42,47,4,1,1,1,1
+385,fcd,F,12,R,T,Lx,HS,NA,57,57,1,1,1,1,1
+387,fcd,F,9,L,T,Lx,HS,type 1,32,32,1,1,1,NA,NA
+388,fcd,F,6,L,T,Lx,HS,NA,27,27,3,1,3,1,3
+389,fcd,M,27,L,T,Lx,HS,type 1,32,32,1,1,1,1,1
+390,fcd,M,17,L,T,Lx,HS,NA,22,22,1,1,1,4,3
+391,fcd,M,17,R,F,Lx,OTHER,cortical scar-chronic; compatible with previous intracranial haemorrhage,42,42,3,3,NA,NA,NA
+392,fcd,M,32,L,T,Lx,DUAL,DNT; GR 1; HS (HS(EFS)),52,57,1,NA,NA,NA,NA
+393,fcd,F,17,L,F,Lesx,GL,AC; GR 2,17,17,1,1,1,1,1
+394,fcd,F,4,R,T,Lx,HS,NA,22,22,2,3,3,2,2
+395,fcd,F,27,R,T,Lesx,OTHER,MVNT (WHO GR I),27,32,1,NA,NA,NA,NA
+396,fcd,F,6,R,T,Lx,OTHER,Gliosis,22,27,1,NA,NA,NA,NA
+397,fcd,F,4,L,T,Lx,HS,NA,47,47,1,1,1,1,1
+399,fcd,F,27,R,T,Lx,HS,type 1 (nb: cavitation & some inflammatory changes in CA4. In absence of IC; remote possibility of autoimmune aetiology/limbic encephalitis should be considered),37,37,1,3,3,3,NA
+400,fcd,F,22,R,T,Lx,HS,HS(EFS),42,42,2,1,1,4,NA
+401,fcd,M,12,L,T,Lx,HS,NA,42,47,1,1,1,1,1
+402,fcd,F,12,R,T,Lx,HS,NA,22,27,3,3,1,1,1
+403,fcd,F,17,R,T,Lx,DNT,GR 1,22,22,1,1,1,1,1
+404,fcd,M,22,R,T,Lx,HS,HS(EFS),32,37,2,1,1,1,1
+405,fcd,M,17,R,T,Lx,HS,NA,22,22,1,2,5,4,4
+406,fcd,F,22,R,T,Lx,HS,HS (cortical atrophy with mild chronic encephalitis),32,32,4,5,NA,NA,NA
+407,fcd,F,12,L,T,Lx,HS,NA,17,22,1,1,1,1,NA
+408,fcd,F,4,L,T,Lx,HS,type 3 (mild),37,42,2,2,NA,NA,NA
+409,fcd,M,17,L,T,Lx,OTHER,NAD (no evidence of HS but incomplete specimen. Mild mossy fibre sprouting. No evidence of FCD),17,22,4,4,4,NA,NA
+410,fcd,M,6,R,T,Lx,DNT,GNT; WHO GR I,52,57,1,1,NA,NA,NA
+411,fcd,F,12,L,F,Lx,FCD,type IIB,47,47,2,NA,NA,NA,NA
+412,fcd,F,42,L,T,Lesx,CAV,NA,52,52,1,1,1,1,1
+413,fcd,F,6,R,T,Lx,HS,NA,47,47,1,1,1,NA,NA
+414,fcd,M,17,L,T,Lx,DNT,low grade,22,27,1,1,1,1,1
+415,fcd,M,17,L,T,Lx,OTHER,Gliosis,32,37,4,4,4,4,4
+416,fcd,M,17,L,T,Lx,HS,HS(EFS),47,52,4,4,5,5,4
+417,fcd,F,17,R,T,Lx,HS,type 1,52,57,NA,NA,NA,NA,NA
+418,fcd,F,9,L,T,Lx,HS,NA,42,47,3,4,3,4,4
+419,fcd,M,2,R,T,Lx,HS,NA,32,32,1,1,4,4,4
+420,fcd,M,2,L,T,Lx,HS,NA,42,42,1,1,1,1,1
+421,fcd,F,9,L,T,Lx,HS,NA,22,22,1,2,2,2,1
+422,fcd,M,27,L,T,Lx,OTHER,No HS in specimen,42,42,NA,NA,NA,NA,NA
+423,fcd,M,22,L,T,Lx,HS,NA,27,27,1,4,4,5,5
+424,fcd,M,17,L,T,Lesx,DNT,GG; GR 1,32,32,1,3,3,3,1
+425,fcd,M,1,L,T,Lx,HS,type 1; (& FCD IIIA),32,37,1,1,1,1,1
+426,fcd,M,4,L,T,Lx,HS,NA,47,47,1,1,1,1,1
+427,fcd,F,9,R,T,Lx,HS,NA,42,42,3,4,2,1,1
+429,fcd,M,12,R,F,Lx,OTHER,NAD (path negative),27,32,2,NA,NA,NA,NA
+430,fcd,M,6,L,T,Lx,HS,NA,37,42,1,1,1,4,1
+431,fcd,M,12,L,T,Lx,DUAL,GNT (WHO GR I); FCD (type IIIB),37,37,1,1,1,NA,NA
+432,fcd,M,9,R,T,Lx,HS,NA,27,27,1,1,1,1,1
+433,fcd,F,6,L,T,Lx,HS,& amyloid plaques & tangles,62,62,1,1,1,1,1
+434,fcd,M,32,L,T,Lx,DUAL,low gr tumour & HS,37,37,NA,NA,NA,NA,NA
+435,fcd,M,6,R,F,Lx,FCD,type IIA & inclusion bodies,22,27,4,4,4,1,1
+436,fcd,M,12,L,T,Lx,OTHER,NAD,27,37,1,1,1,1,1
+438,fcd,M,4,R,T,Lx,OTHER,HG (mild & patchy hippocampal neuronal loss. Small cortical scars & chronic inflammatory cell clusters),42,42,4,1,NA,NA,NA
+439,fcd,M,12,L,T,Lx,OTHER,Gliosis,32,37,NA,NA,NA,NA,NA
+440,fcd,F,32,R,T&P,Lx,DNT,GR 1,52,52,4,5,3,5,NA
+441,fcd,F,6,L,T,Lx,HS,NA,32,32,1,NA,NA,NA,NA
+442,fcd,F,12,R,T,Lx,HS,NA,42,47,5,5,5,NA,NA
+443,fcd,M,17,R,T,Lx,DNT,GG WHO GR 1,22,27,1,1,NA,NA,NA
+444,fcd,F,9,L,T,Lx,HS,NA,27,27,1,1,1,1,1
+445,fcd,F,32,L,T,Lx,HS,NA,37,37,2,2,2,2,1
+446,fcd,F,12,L,T,Lx,HS,NA,47,47,5,5,5,5,5
+447,fcd,F,22,R,T,Lx,HS,type 1,60,60,1,1,3,1,NA
+448,fcd,F,22,L,T,Lesx,CAV,NA,37,37,1,1,1,1,1
+449,fcd,F,42,R,T,Lx,DNT,NA,60,60,4,4,4,4,4
+450,fcd,M,4,L,T,Lx,HS,type 1,27,27,3,3,NA,NA,NA
+451,fcd,F,9,R,T,Lx,HS,NA,42,42,1,1,1,1,1
+452,fcd,F,4,L,T,Lx,HS,NA,37,37,1,1,NA,NA,NA
+453,fcd,M,22,L,T,Lx,OTHER,Gliosis & query MCD type II,37,37,4,4,NA,NA,NA
+454,fcd,M,1,L,T,Lx,HS,NA,37,37,1,4,4,1,4
+455,fcd,F,6,R,T,Lx,HS,NA,42,42,1,1,4,1,2
+459,fcd,M,12,L,O&P,Lx,FCD,type IIID,17,22,3,NA,NA,NA,NA
+460,fcd,M,42,L,T,Lx,HS,NA,47,52,1,1,1,1,1
+461,fcd,M,6,L,T,Lx,HS,NA,42,42,3,1,3,3,1
+462,fcd,F,17,L,T,Lesx,CAV,NA,17,17,1,1,1,1,2
+463,fcd,F,12,R,T,Lesx,DNT,GR 1,27,27,1,1,1,3,1
+4001,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4002,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,47,NaN,NaN,NaN,NaN,NaN,NaN
+4003,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN
+4004,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4005,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4006,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,27,NaN,NaN,NaN,NaN,NaN,NaN
+4007,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4008,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,47,NaN,NaN,NaN,NaN,NaN,NaN
+4009,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4011,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN
+4012,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4013,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,15,NaN,NaN,NaN,NaN,NaN,NaN
+4015,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,47,NaN,NaN,NaN,NaN,NaN,NaN
+4016,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4018,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4019,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,47,NaN,NaN,NaN,NaN,NaN,NaN
+4020,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4021,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN
+4023,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4024,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN
+4025,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4026,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4027,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN
+4028,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4029,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4030,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4031,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4034,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4035,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4037,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN
+4038,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4039,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,27,NaN,NaN,NaN,NaN,NaN,NaN
+4040,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4041,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4042,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4043,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,47,NaN,NaN,NaN,NaN,NaN,NaN
+4045,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4046,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4047,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4048,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4049,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4051,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4052,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4053,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4054,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,15,NaN,NaN,NaN,NaN,NaN,NaN
+4055,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4057,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4058,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4059,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4061,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4062,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4063,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4064,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4065,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4066,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN
+4067,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4068,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,47,NaN,NaN,NaN,NaN,NaN,NaN
+4069,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4070,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4073,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4074,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,27,NaN,NaN,NaN,NaN,NaN,NaN
+4077,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4078,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,27,NaN,NaN,NaN,NaN,NaN,NaN
+4079,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,47,NaN,NaN,NaN,NaN,NaN,NaN
+4080,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4081,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,27,NaN,NaN,NaN,NaN,NaN,NaN
+4082,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4083,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4084,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4085,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4087,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4088,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4089,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN
+4090,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,NaN,NaN,NaN
+4091,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN
+4092,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,15,NaN,NaN,NaN,NaN,NaN,NaN
+4093,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN,NaN
+4095,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN
+4096,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN
+4097,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
+4098,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,27,NaN,NaN,NaN,NaN,NaN,NaN
+4099,hc,M,NaN,NaN,NaN,NaN,NaN,NaN,27,NaN,NaN,NaN,NaN,NaN,NaN
+4100,hc,F,NaN,NaN,NaN,NaN,NaN,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN
